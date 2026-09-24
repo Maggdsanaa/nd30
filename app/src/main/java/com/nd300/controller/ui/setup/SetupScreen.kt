@@ -1,1 +1,191 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci51aS5zZXR1cAoKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5jbGlja2FibGUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuKgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLnJlbWVtYmVyU2Nyb2xsU3RhdGUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi50ZXh0LktleWJvYXJkT3B0aW9ucwppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLnZlcnRpY2FsU2Nyb2xsCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsLmljb25zLkljb25zCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsLmljb25zLmZpbGxlZC5FeHBhbmRMZXNzCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsLmljb25zLmZpbGxlZC5FeHBhbmRNb3JlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy4qCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUuKgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS5BbGlnbm1lbnQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkuTW9kaWZpZXIKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkudGV4dC5pbnB1dC5LZXlib2FyZFR5cGUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkudGV4dC5pbnB1dC5QYXNzd29yZFZpc3VhbFRyYW5zZm9ybWF0aW9uCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLnVuaXQuZHAKaW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS52aWV3bW9kZWwuY29tcG9zZS52aWV3TW9kZWwKaW1wb3J0IGNvbS5uZDMwMC5jb250cm9sbGVyLm5ldHdvcmsuQ29tbW9uVGVtcGxhdGVzCmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5uZXR3b3JrLlJlcXVlc3RUZW1wbGF0ZQppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIubmV0d29yay5Sb3V0ZXJUZW1wbGF0ZVNldAppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIudWkudmlld21vZGVsLlNldHVwVmlld01vZGVsCgpAQ29tcG9zYWJsZQpmdW4gU2V0dXBTY3JlZW4oKSB7CiAgICB2YWwgdmlld01vZGVsOiBTZXR1cFZpZXdNb2RlbCA9IHZpZXdNb2RlbCgpCiAgICB2YWwgc3RhdGUgYnkgdmlld01vZGVsLnN0YXRlLmNvbGxlY3RBc1N0YXRlKCkKCiAgICBDb2x1bW4oCiAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAuZmlsbE1heFNpemUoKQogICAgICAgICAgICAudmVydGljYWxTY3JvbGwocmVtZW1iZXJTY3JvbGxTdGF0ZSgpKQogICAgICAgICAgICAucGFkZGluZygyMC5kcCkKICAgICkgewogICAgICAgIFRleHQoItil2LnYr9in2K8g2KfZhNmF2YjYr9mFIiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuaGVhZGxpbmVTbWFsbCkKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDE2LmRwKSkKCiAgICAgICAgT3V0bGluZWRUZXh0RmllbGQoCiAgICAgICAgICAgIHZhbHVlID0gc3RhdGUuaXAsIG9uVmFsdWVDaGFuZ2UgPSB2aWV3TW9kZWw6OnVwZGF0ZUlwLAogICAgICAgICAgICBsYWJlbCA9IHsgVGV4dCgi2LnZhtmI2KfZhiBJUCIpIH0sIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCksCiAgICAgICAgICAgIGtleWJvYXJkT3B0aW9ucyA9IEtleWJvYXJkT3B0aW9ucyhrZXlib2FyZFR5cGUgPSBLZXlib2FyZFR5cGUuVGV4dCkKICAgICAgICApCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMC5kcCkpCiAgICAgICAgT3V0bGluZWRUZXh0RmllbGQoCiAgICAgICAgICAgIHZhbHVlID0gc3RhdGUucG9ydCwgb25WYWx1ZUNoYW5nZSA9IHZpZXdNb2RlbDo6dXBkYXRlUG9ydCwKICAgICAgICAgICAgbGFiZWwgPSB7IFRleHQoItin2YTZhdmG2YHYsCAo2KfYrtiq2YrYp9ix2Yog4oCUINin2KrYsdmD2Ycg2YHYp9ix2LrYp9mLINmE2YAgODApIikgfSwgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKSwKICAgICAgICAgICAga2V5Ym9hcmRPcHRpb25zID0gS2V5Ym9hcmRPcHRpb25zKGtleWJvYXJkVHlwZSA9IEtleWJvYXJkVHlwZS5OdW1iZXIpCiAgICAgICAgKQogICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoMTAuZHApKQogICAgICAgIE91dGxpbmVkVGV4dEZpZWxkKAogICAgICAgICAgICB2YWx1ZSA9IHN0YXRlLnVzZXJuYW1lLCBvblZhbHVlQ2hhbmdlID0gdmlld01vZGVsOjp1cGRhdGVVc2VybmFtZSwKICAgICAgICAgICAgbGFiZWwgPSB7IFRleHQoItin2LPZhSDYp9mE2YXYs9iq2K7Yr9mFIikgfSwgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKQogICAgICAgICkKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDEwLmRwKSkKICAgICAgICBPdXRsaW5lZFRleHRGaWVsZCgKICAgICAgICAgICAgdmFsdWUgPSBzdGF0ZS5wYXNzd29yZCwgb25WYWx1ZUNoYW5nZSA9IHZpZXdNb2RlbDo6dXBkYXRlUGFzc3dvcmQsCiAgICAgICAgICAgIGxhYmVsID0geyBUZXh0KCLZg9mE2YXYqSDYp9mE2YXYsdmI2LEiKSB9LCBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpLAogICAgICAgICAgICB2aXN1YWxUcmFuc2Zvcm1hdGlvbiA9IFBhc3N3b3JkVmlzdWFsVHJhbnNmb3JtYXRpb24oKQogICAgICAgICkKCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxOC5kcCkpCiAgICAgICAgRGl2aWRlcigpCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMi5kcCkpCgogICAgICAgIFRleHQoItmC2YjYp9mE2Kgg2KfZhNij2YjYp9mF2LEgKEVuZHBvaW50cykiLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS50aXRsZU1lZGl1bSkKICAgICAgICBUZXh0KAogICAgICAgICAgICAi2YTYpyDZitmF2YPZhiDZhNij2Yog2KrYt9io2YrZgiDZhdi52LHZgdipINij2YjYp9mF2LEg2YXZiNiv2YXZgyDYqNiv2YLYqSDYr9mI2YYg2KfZhNiq2YLYp9i32YfYpyDZhdmGINmF2KrYtdmB2K3Zgy4gIiArCiAgICAgICAgICAgICAgICAi2KfZgdiq2K0g2YTZiNit2Kkg2KXYr9in2LHYqSDYp9mE2YXZiNiv2YUg2YXZhiDZhdiq2LXZgditINi52YTZiSDZhtmB2LMg2KfZhNi02KjZg9ip2Iwg2YHYudmR2YQg2KPYr9mI2KfYqiDYp9mE2YXYt9mI2ZHYsSAoTmV0d29yayB0YWIp2IwgIiArCiAgICAgICAgICAgICAgICAi2YjYs9is2ZHZhCDYp9mE2LfZhNioINin2YTYrdmC2YrZgtmKINin2YTYsNmKINmK2Y/Ysdiz2YQg2LnZhtivINiq2LPYrNmK2YQg2KfZhNiv2K7ZiNmEINmI2LnZhtivINmD2YQg2LLYsSDYqtit2YPZhdiMINir2YUg2KfZhtiz2K7ZhyDZh9mG2Kcg2KjYp9mE2LbYqNi3LiIsCiAgICAgICAgICAgIHN0eWxlID0gTWF0ZXJpYWxUaGVtZS50eXBvZ3JhcGh5LmJvZHlTbWFsbCwKICAgICAgICAgICAgY29sb3IgPSBNYXRlcmlhbFRoZW1lLmNvbG9yU2NoZW1lLm9uU3VyZmFjZVZhcmlhbnQKICAgICAgICApCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMC5kcCkpCgogICAgICAgIE91dGxpbmVkQnV0dG9uKG9uQ2xpY2sgPSB7IHZpZXdNb2RlbC51cGRhdGVUZW1wbGF0ZXMoQ29tbW9uVGVtcGxhdGVzLmNzdGVjZ2lTdHlsZSkgfSkgewogICAgICAgICAgICBUZXh0KCLYqtit2YXZitmEINmC2KfZhNioINmF2LHYrNi52YogKNi62YrYsSDZhdik2YPYryDZhNmAIE5EMzAwKSDZg9mG2YLYt9ipINio2K/Yp9mK2KkiKQogICAgICAgIH0KICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDQuZHApKQogICAgICAgIFRleHQoCiAgICAgICAgICAgICLYqtit2LDZitixOiDZh9iw2Kcg2KfZhNmC2KfZhNioINmF2KjZhtmKINi52YTZiSDZhtmF2Lcg2LTYp9im2Lkg2YHZiiDYt9ix2KfYstin2KogVE9UT0xJTksg2KPYrtix2Ykg2YjZhNmK2LMg2YXYpNmD2K/Yp9mLINmE2YAgTkQzMDAuICIgKwogICAgICAgICAgICAgICAgItin2K7Yqtio2LHZhyDYq9mFINi52K/ZkdmE2Ycg2K3Ys9ioINin2YTYp9iz2KrYrNin2KjYqSDYp9mE2YHYudmE2YrYqS4iLAogICAgICAgICAgICBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5ib2R5U21hbGwsCiAgICAgICAgICAgIGNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5lcnJvcgogICAgICAgICkKCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxNi5kcCkpCgogICAgICAgIFRlbXBsYXRlRWRpdG9yKCLYqtiz2KzZitmEINin2YTYr9iu2YjZhCIsIHN0YXRlLnRlbXBsYXRlcy5sb2dpbikgewogICAgICAgICAgICB2aWV3TW9kZWwudXBkYXRlVGVtcGxhdGVzKHN0YXRlLnRlbXBsYXRlcy5jb3B5KGxvZ2luID0gaXQpKQogICAgICAgIH0KICAgICAgICBUZW1wbGF0ZUVkaXRvcigi2YLYsdin2KHYqSDYp9mE2K3Yp9mE2KkiLCBzdGF0ZS50ZW1wbGF0ZXMuZ2V0U3RhdHVzKSB7CiAgICAgICAgICAgIHZpZXdNb2RlbC51cGRhdGVUZW1wbGF0ZXMoc3RhdGUudGVtcGxhdGVzLmNvcHkoZ2V0U3RhdHVzID0gaXQpKQogICAgICAgIH0KICAgICAgICBUZW1wbGF0ZUVkaXRvcigi2KXZitmC2KfZgSDYp9mE2KXZhtiq2LHZhtiqIiwgc3RhdGUudGVtcGxhdGVzLmRpc2FibGVJbnRlcm5ldCkgewogICAgICAgICAgICB2aWV3TW9kZWwudXBkYXRlVGVtcGxhdGVzKHN0YXRlLnRlbXBsYXRlcy5jb3B5KGRpc2FibGVJbnRlcm5ldCA9IGl0KSkKICAgICAgICB9CiAgICAgICAgVGVtcGxhdGVFZGl0b3IoItiq2LTYutmK2YQg2KfZhNil2YbYqtix2YbYqiIsIHN0YXRlLnRlbXBsYXRlcy5lbmFibGVJbnRlcm5ldCkgewogICAgICAgICAgICB2aWV3TW9kZWwudXBkYXRlVGVtcGxhdGVzKHN0YXRlLnRlbXBsYXRlcy5jb3B5KGVuYWJsZUludGVybmV0ID0gaXQpKQogICAgICAgIH0KICAgICAgICBUZW1wbGF0ZUVkaXRvcigi2KXYudin2K/YqSDYp9mE2KrYtNi62YrZhCIsIHN0YXRlLnRlbXBsYXRlcy5yZWJvb3QpIHsKICAgICAgICAgICAgdmlld01vZGVsLnVwZGF0ZVRlbXBsYXRlcyhzdGF0ZS50ZW1wbGF0ZXMuY29weShyZWJvb3QgPSBpdCkpCiAgICAgICAgfQoKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDguZHApKQogICAgICAgIFRleHQoCiAgICAgICAgICAgICJcItil2YrZgtin2YEg2KfZhNil2YbYqtix2YbYqlwiINmK2LnZhtmKINmB2LnZhNmK2KfZizogJHtpZiAoc3RhdGUudGVtcGxhdGVzLmRpc2FibGVJbnRlcm5ldE1lYW5zID09ICJXQU4iKSAi2KrYudi32YrZhCDYp9iq2LXYp9mEIFdBTiIgZWxzZSAi2KrYudi32YrZhCBXaS1GaSJ9ICIgKwogICAgICAgICAgICAgICAgIijYrdiz2Kgg2YXYpyDZitmI2YHYsdmHINin2YTZgdix2YrZhdmI2YrYsSDigJQg2YTZhiDZitmP2LnYqtio2LEg2KXYudin2K/YqSDYp9mE2KrYtNi62YrZhCDYqNiv2YrZhNin2YspLiIsCiAgICAgICAgICAgIHN0eWxlID0gTWF0ZXJpYWxUaGVtZS50eXBvZ3JhcGh5LmJvZHlTbWFsbAogICAgICAgICkKCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgyMC5kcCkpCgogICAgICAgIEJ1dHRvbihvbkNsaWNrID0geyB2aWV3TW9kZWwudGVzdENvbm5lY3Rpb24oKSB9LCBlbmFibGVkID0gIXN0YXRlLmlzVGVzdGluZywgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKSkgewogICAgICAgICAgICBpZiAoc3RhdGUuaXNUZXN0aW5nKSB7CiAgICAgICAgICAgICAgICBDaXJjdWxhclByb2dyZXNzSW5kaWNhdG9yKG1vZGlmaWVyID0gTW9kaWZpZXIuc2l6ZSgxOC5kcCksIHN0cm9rZVdpZHRoID0gMi5kcCkKICAgICAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci53aWR0aCg4LmRwKSkKICAgICAgICAgICAgfQogICAgICAgICAgICBUZXh0KCLYp9iu2KrYqNin2LEg2KfZhNin2KrYtdin2YQiKQogICAgICAgIH0KCiAgICAgICAgc3RhdGUudGVzdFJlc3VsdE1lc3NhZ2U/LmxldCB7IG1zZyAtPgogICAgICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDEwLmRwKSkKICAgICAgICAgICAgQ2FyZCgKICAgICAgICAgICAgICAgIGNvbG9ycyA9IENhcmREZWZhdWx0cy5jYXJkQ29sb3JzKAogICAgICAgICAgICAgICAgICAgIGNvbnRhaW5lckNvbG9yID0gaWYgKHN0YXRlLnRlc3RTdWNjZWVkZWQgPT0gdHJ1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5wcmltYXJ5Q29udGFpbmVyIGVsc2UgTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5lcnJvckNvbnRhaW5lcgogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApIHsgVGV4dChtc2csIG1vZGlmaWVyID0gTW9kaWZpZXIucGFkZGluZygxMi5kcCkpIH0KICAgICAgICB9CgogICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoMTAuZHApKQogICAgICAgIE91dGxpbmVkQnV0dG9uKG9uQ2xpY2sgPSB7IHZpZXdNb2RlbC5zYXZlKCkgfSwgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKSkgewogICAgICAgICAgICBUZXh0KCLYrdmB2LgiKQogICAgICAgIH0KICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDMwLmRwKSkKICAgIH0KfQoKQENvbXBvc2FibGUKcHJpdmF0ZSBmdW4gVGVtcGxhdGVFZGl0b3IodGl0bGU6IFN0cmluZywgdGVtcGxhdGU6IFJlcXVlc3RUZW1wbGF0ZSwgb25DaGFuZ2U6IChSZXF1ZXN0VGVtcGxhdGUpIC0+IFVuaXQpIHsKICAgIHZhciBleHBhbmRlZCBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKGZhbHNlKSB9CgogICAgQ2FyZChtb2RpZmllciA9IE1vZGlmaWVyCiAgICAgICAgLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgLnBhZGRpbmcodmVydGljYWwgPSA2LmRwKSkgewogICAgICAgIENvbHVtbihNb2RpZmllci5wYWRkaW5nKDEyLmRwKSkgewogICAgICAgICAgICBSb3coCiAgICAgICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyCiAgICAgICAgICAgICAgICAgICAgLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgICAgICAgICAgICAgLmNsaWNrYWJsZSB7IGV4cGFuZGVkID0gIWV4cGFuZGVkIH0sCiAgICAgICAgICAgICAgICBob3Jpem9udGFsQXJyYW5nZW1lbnQgPSBBcnJhbmdlbWVudC5TcGFjZUJldHdlZW4sCiAgICAgICAgICAgICAgICB2ZXJ0aWNhbEFsaWdubWVudCA9IEFsaWdubWVudC5DZW50ZXJWZXJ0aWNhbGx5CiAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgVGV4dCh0aXRsZSwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkudGl0bGVTbWFsbCkKICAgICAgICAgICAgICAgIEljb24oaWYgKGV4cGFuZGVkKSBJY29ucy5GaWxsZWQuRXhwYW5kTGVzcyBlbHNlIEljb25zLkZpbGxlZC5FeHBhbmRNb3JlLCBjb250ZW50RGVzY3JpcHRpb24gPSBudWxsKQogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoZXhwYW5kZWQpIHsKICAgICAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgICAgICAgICBPdXRsaW5lZFRleHRGaWVsZCgKICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IHRlbXBsYXRlLm1ldGhvZCwgb25WYWx1ZUNoYW5nZSA9IHsgb25DaGFuZ2UodGVtcGxhdGUuY29weShtZXRob2QgPSBpdCkpIH0sCiAgICAgICAgICAgICAgICAgICAgbGFiZWwgPSB7IFRleHQoIk1ldGhvZCAoR0VUL1BPU1QpIikgfSwgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKSwgc2luZ2xlTGluZSA9IHRydWUKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoNi5kcCkpCiAgICAgICAgICAgICAgICBPdXRsaW5lZFRleHRGaWVsZCgKICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IHRlbXBsYXRlLnBhdGgsIG9uVmFsdWVDaGFuZ2UgPSB7IG9uQ2hhbmdlKHRlbXBsYXRlLmNvcHkocGF0aCA9IGl0KSkgfSwKICAgICAgICAgICAgICAgICAgICBsYWJlbCA9IHsgVGV4dCgi2KfZhNmF2LPYp9ixIChQYXRoKSDigJQg2YXYq9in2YQ6IC9jZ2ktYmluL3h4eC5jZ2kiKSB9LAogICAgICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCksIHNpbmdsZUxpbmUgPSB0cnVlCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDYuZHApKQogICAgICAgICAgICAgICAgT3V0bGluZWRUZXh0RmllbGQoCiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSB0ZW1wbGF0ZS5ib2R5VGVtcGxhdGUsIG9uVmFsdWVDaGFuZ2UgPSB7IG9uQ2hhbmdlKHRlbXBsYXRlLmNvcHkoYm9keVRlbXBsYXRlID0gaXQpKSB9LAogICAgICAgICAgICAgICAgICAgIGxhYmVsID0geyBUZXh0KCLZhdit2KrZiNmJINin2YTYt9mE2KggKEJvZHkpIOKAlCBQT1NUINmB2YLYtyIpIH0sCiAgICAgICAgICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKSwgbWluTGluZXMgPSAyCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDYuZHApKQogICAgICAgICAgICAgICAgT3V0bGluZWRUZXh0RmllbGQoCiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSB0ZW1wbGF0ZS5zdWNjZXNzQ29udGFpbnMsIG9uVmFsdWVDaGFuZ2UgPSB7IG9uQ2hhbmdlKHRlbXBsYXRlLmNvcHkoc3VjY2Vzc0NvbnRhaW5zID0gaXQpKSB9LAogICAgICAgICAgICAgICAgICAgIGxhYmVsID0geyBUZXh0KCLZhti1INmK2K/ZhCDYudmE2Ykg2KfZhNmG2KzYp9itINiv2KfYrtmEINin2YTYp9iz2KrYrNin2KjYqSAo2KfYrtiq2YrYp9ix2YopIikgfSwKICAgICAgICAgICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpLCBzaW5nbGVMaW5lID0gdHJ1ZQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg2LmRwKSkKICAgICAgICAgICAgICAgIE91dGxpbmVkVGV4dEZpZWxkKAogICAgICAgICAgICAgICAgICAgIHZhbHVlID0gdGVtcGxhdGUuZXh0cmFjdFRva2VuUmVnZXgsIG9uVmFsdWVDaGFuZ2UgPSB7IG9uQ2hhbmdlKHRlbXBsYXRlLmNvcHkoZXh0cmFjdFRva2VuUmVnZXggPSBpdCkpIH0sCiAgICAgICAgICAgICAgICAgICAgbGFiZWwgPSB7IFRleHQoIlJlZ2V4INmE2KfYs9iq2K7Ysdin2KwgdG9rZW4g2YXZhiDYp9mE2KfYs9iq2KzYp9io2KkgKNin2K7YqtmK2KfYsdmK2Iwg2YTYqtiz2KzZitmEINin2YTYr9iu2YjZhCDZgdmC2LcpIikgfSwKICAgICAgICAgICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpLCBzaW5nbGVMaW5lID0gdHJ1ZQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9Cg==
+package com.nd300.controller.ui.setup
+
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.text.KeyboardOptions
+import androidx.compose.foundation.verticalScroll
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.ExpandLess
+import androidx.compose.material.icons.filled.ExpandMore
+import androidx.compose.material3.*
+import androidx.compose.runtime.*
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.input.KeyboardType
+import androidx.compose.ui.text.input.PasswordVisualTransformation
+import androidx.compose.ui.unit.dp
+import androidx.lifecycle.viewmodel.compose.viewModel
+import com.nd300.controller.network.CommonTemplates
+import com.nd300.controller.network.RequestTemplate
+import com.nd300.controller.network.RouterTemplateSet
+import com.nd300.controller.ui.viewmodel.SetupViewModel
+
+@Composable
+fun SetupScreen() {
+    val viewModel: SetupViewModel = viewModel()
+    val state by viewModel.state.collectAsState()
+
+    Column(
+        modifier = Modifier
+            .fillMaxSize()
+            .verticalScroll(rememberScrollState())
+            .padding(20.dp)
+    ) {
+        Text("إعداد المودم", style = MaterialTheme.typography.headlineSmall)
+        Spacer(Modifier.height(16.dp))
+
+        OutlinedTextField(
+            value = state.ip, onValueChange = viewModel::updateIp,
+            label = { Text("عنوان IP") }, modifier = Modifier.fillMaxWidth(),
+            keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Text)
+        )
+        Spacer(Modifier.height(10.dp))
+        OutlinedTextField(
+            value = state.port, onValueChange = viewModel::updatePort,
+            label = { Text("المنفذ (اختياري — اتركه فارغاً لـ 80)") }, modifier = Modifier.fillMaxWidth(),
+            keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number)
+        )
+        Spacer(Modifier.height(10.dp))
+        OutlinedTextField(
+            value = state.username, onValueChange = viewModel::updateUsername,
+            label = { Text("اسم المستخدم") }, modifier = Modifier.fillMaxWidth()
+        )
+        Spacer(Modifier.height(10.dp))
+        OutlinedTextField(
+            value = state.password, onValueChange = viewModel::updatePassword,
+            label = { Text("كلمة المرور") }, modifier = Modifier.fillMaxWidth(),
+            visualTransformation = PasswordVisualTransformation()
+        )
+
+        Spacer(Modifier.height(18.dp))
+        Divider()
+        Spacer(Modifier.height(12.dp))
+
+        Text("قوالب الأوامر (Endpoints)", style = MaterialTheme.typography.titleMedium)
+        Text(
+            "لا يمكن لأي تطبيق معرفة أوامر مودمك بدقة دون التقاطها من متصفحك. " +
+                "افتح لوحة إدارة المودم من متصفح على نفس الشبكة، فعّل أدوات المطوّر (Network tab)، " +
+                "وسجّل الطلب الحقيقي الذي يُرسل عند تسجيل الدخول وعند كل زر تحكم، ثم انسخه هنا بالضبط.",
+            style = MaterialTheme.typography.bodySmall,
+            color = MaterialTheme.colorScheme.onSurfaceVariant
+        )
+        Spacer(Modifier.height(10.dp))
+
+        OutlinedButton(onClick = { viewModel.updateTemplates(CommonTemplates.cstecgiStyle) }) {
+            Text("تحميل قالب مرجعي (غير مؤكد لـ ND300) كنقطة بداية")
+        }
+        Spacer(Modifier.height(4.dp))
+        Text(
+            "تحذير: هذا القالب مبني على نمط شائع في طرازات TOTOLINK أخرى وليس مؤكداً لـ ND300. " +
+                "اختبره ثم عدّله حسب الاستجابة الفعلية.",
+            style = MaterialTheme.typography.bodySmall,
+            color = MaterialTheme.colorScheme.error
+        )
+
+        Spacer(Modifier.height(16.dp))
+
+        TemplateEditor("تسجيل الدخول", state.templates.login) {
+            viewModel.updateTemplates(state.templates.copy(login = it))
+        }
+        TemplateEditor("قراءة الحالة", state.templates.getStatus) {
+            viewModel.updateTemplates(state.templates.copy(getStatus = it))
+        }
+        TemplateEditor("إيقاف الإنترنت", state.templates.disableInternet) {
+            viewModel.updateTemplates(state.templates.copy(disableInternet = it))
+        }
+        TemplateEditor("تشغيل الإنترنت", state.templates.enableInternet) {
+            viewModel.updateTemplates(state.templates.copy(enableInternet = it))
+        }
+        TemplateEditor("إعادة التشغيل", state.templates.reboot) {
+            viewModel.updateTemplates(state.templates.copy(reboot = it))
+        }
+
+        Spacer(Modifier.height(8.dp))
+        Text(
+            "\"إيقاف الإنترنت\" يعني فعلياً: ${if (state.templates.disableInternetMeans == "WAN") "تعطيل اتصال WAN" else "تعطيل Wi-Fi"} " +
+                "(حسب ما يوفره الفريموير — لن يُعتبر إعادة التشغيل بديلاً).",
+            style = MaterialTheme.typography.bodySmall
+        )
+
+        Spacer(Modifier.height(20.dp))
+
+        Button(onClick = { viewModel.testConnection() }, enabled = !state.isTesting, modifier = Modifier.fillMaxWidth()) {
+            if (state.isTesting) {
+                CircularProgressIndicator(modifier = Modifier.size(18.dp), strokeWidth = 2.dp)
+                Spacer(Modifier.width(8.dp))
+            }
+            Text("اختبار الاتصال")
+        }
+
+        state.testResultMessage?.let { msg ->
+            Spacer(Modifier.height(10.dp))
+            Card(
+                colors = CardDefaults.cardColors(
+                    containerColor = if (state.testSucceeded == true)
+                        MaterialTheme.colorScheme.primaryContainer else MaterialTheme.colorScheme.errorContainer
+                )
+            ) { Text(msg, modifier = Modifier.padding(12.dp)) }
+        }
+
+        Spacer(Modifier.height(10.dp))
+        OutlinedButton(onClick = { viewModel.save() }, modifier = Modifier.fillMaxWidth()) {
+            Text("حفظ")
+        }
+        Spacer(Modifier.height(30.dp))
+    }
+}
+
+@Composable
+private fun TemplateEditor(title: String, template: RequestTemplate, onChange: (RequestTemplate) -> Unit) {
+    var expanded by remember { mutableStateOf(false) }
+
+    Card(modifier = Modifier
+        .fillMaxWidth()
+        .padding(vertical = 6.dp)) {
+        Column(Modifier.padding(12.dp)) {
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .clickable { expanded = !expanded },
+                horizontalArrangement = Arrangement.SpaceBetween,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Text(title, style = MaterialTheme.typography.titleSmall)
+                Icon(if (expanded) Icons.Filled.ExpandLess else Icons.Filled.ExpandMore, contentDescription = null)
+            }
+
+            if (expanded) {
+                Spacer(Modifier.height(8.dp))
+                OutlinedTextField(
+                    value = template.method, onValueChange = { onChange(template.copy(method = it)) },
+                    label = { Text("Method (GET/POST)") }, modifier = Modifier.fillMaxWidth(), singleLine = true
+                )
+                Spacer(Modifier.height(6.dp))
+                OutlinedTextField(
+                    value = template.path, onValueChange = { onChange(template.copy(path = it)) },
+                    label = { Text("المسار (Path) — مثال: /cgi-bin/xxx.cgi") },
+                    modifier = Modifier.fillMaxWidth(), singleLine = true
+                )
+                Spacer(Modifier.height(6.dp))
+                OutlinedTextField(
+                    value = template.bodyTemplate, onValueChange = { onChange(template.copy(bodyTemplate = it)) },
+                    label = { Text("محتوى الطلب (Body) — POST فقط") },
+                    modifier = Modifier.fillMaxWidth(), minLines = 2
+                )
+                Spacer(Modifier.height(6.dp))
+                OutlinedTextField(
+                    value = template.successContains, onValueChange = { onChange(template.copy(successContains = it)) },
+                    label = { Text("نص يدل على النجاح داخل الاستجابة (اختياري)") },
+                    modifier = Modifier.fillMaxWidth(), singleLine = true
+                )
+                Spacer(Modifier.height(6.dp))
+                OutlinedTextField(
+                    value = template.extractTokenRegex, onValueChange = { onChange(template.copy(extractTokenRegex = it)) },
+                    label = { Text("Regex لاستخراج token من الاستجابة (اختياري، لتسجيل الدخول فقط)") },
+                    modifier = Modifier.fillMaxWidth(), singleLine = true
+                )
+            }
+        }
+    }
+}

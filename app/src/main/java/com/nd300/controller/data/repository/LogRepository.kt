@@ -1,1 +1,16 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLnJlcG9zaXRvcnkKCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQ29udGV4dAppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5kYi5BcHBEYXRhYmFzZQppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5kYi5Mb2dFbnRpdHkKaW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5mbG93LkZsb3cKCmNsYXNzIExvZ1JlcG9zaXRvcnkoY29udGV4dDogQ29udGV4dCkgewogICAgcHJpdmF0ZSB2YWwgZGFvID0gQXBwRGF0YWJhc2UuZ2V0SW5zdGFuY2UoY29udGV4dCkubG9nRGFvKCkKCiAgICBmdW4gb2JzZXJ2ZVJlY2VudCgpOiBGbG93PExpc3Q8TG9nRW50aXR5Pj4gPSBkYW8ub2JzZXJ2ZVJlY2VudCgpCgogICAgc3VzcGVuZCBmdW4gYWRkKGVudHJ5OiBMb2dFbnRpdHkpIHsKICAgICAgICBkYW8uaW5zZXJ0KGVudHJ5KQogICAgfQp9Cg==
+package com.nd300.controller.data.repository
+
+import android.content.Context
+import com.nd300.controller.data.db.AppDatabase
+import com.nd300.controller.data.db.LogEntity
+import kotlinx.coroutines.flow.Flow
+
+class LogRepository(context: Context) {
+    private val dao = AppDatabase.getInstance(context).logDao()
+
+    fun observeRecent(): Flow<List<LogEntity>> = dao.observeRecent()
+
+    suspend fun add(entry: LogEntity) {
+        dao.insert(entry)
+    }
+}

@@ -1,1 +1,30 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci51aS52aWV3bW9kZWwKCmltcG9ydCBhbmRyb2lkLmFwcC5BcHBsaWNhdGlvbgppbXBvcnQgYW5kcm9pZHgubGlmZWN5Y2xlLkFuZHJvaWRWaWV3TW9kZWwKaW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS52aWV3TW9kZWxTY29wZQppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5kYi5TY2hlZHVsZUVudGl0eQppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5yZXBvc2l0b3J5LlNjaGVkdWxlUmVwb3NpdG9yeQppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmZsb3cuU2hhcmluZ1N0YXJ0ZWQKaW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5mbG93LlN0YXRlRmxvdwppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmZsb3cuc3RhdGVJbgppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmxhdW5jaAoKY2xhc3MgU2NoZWR1bGVWaWV3TW9kZWwoYXBwbGljYXRpb246IEFwcGxpY2F0aW9uKSA6IEFuZHJvaWRWaWV3TW9kZWwoYXBwbGljYXRpb24pIHsKICAgIHByaXZhdGUgdmFsIHJlcG9zaXRvcnkgPSBTY2hlZHVsZVJlcG9zaXRvcnkoYXBwbGljYXRpb24pCgogICAgdmFsIHNjaGVkdWxlczogU3RhdGVGbG93PExpc3Q8U2NoZWR1bGVFbnRpdHk+PiA9IHJlcG9zaXRvcnkub2JzZXJ2ZUFsbCgpCiAgICAgICAgLnN0YXRlSW4odmlld01vZGVsU2NvcGUsIFNoYXJpbmdTdGFydGVkLldoaWxlU3Vic2NyaWJlZCg1MDAwKSwgZW1wdHlMaXN0KCkpCgogICAgZnVuIHNhdmUoc2NoZWR1bGU6IFNjaGVkdWxlRW50aXR5KSB7CiAgICAgICAgdmlld01vZGVsU2NvcGUubGF1bmNoIHsgcmVwb3NpdG9yeS5zYXZlKHNjaGVkdWxlKSB9CiAgICB9CgogICAgZnVuIGRlbGV0ZShzY2hlZHVsZTogU2NoZWR1bGVFbnRpdHkpIHsKICAgICAgICB2aWV3TW9kZWxTY29wZS5sYXVuY2ggeyByZXBvc2l0b3J5LmRlbGV0ZShzY2hlZHVsZSkgfQogICAgfQoKICAgIGZ1biB0b2dnbGVFbmFibGVkKHNjaGVkdWxlOiBTY2hlZHVsZUVudGl0eSkgewogICAgICAgIHZpZXdNb2RlbFNjb3BlLmxhdW5jaCB7IHJlcG9zaXRvcnkuc2F2ZShzY2hlZHVsZS5jb3B5KGlzRW5hYmxlZCA9ICFzY2hlZHVsZS5pc0VuYWJsZWQpKSB9CiAgICB9Cn0K
+package com.nd300.controller.ui.viewmodel
+
+import android.app.Application
+import androidx.lifecycle.AndroidViewModel
+import androidx.lifecycle.viewModelScope
+import com.nd300.controller.data.db.ScheduleEntity
+import com.nd300.controller.data.repository.ScheduleRepository
+import kotlinx.coroutines.flow.SharingStarted
+import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.flow.stateIn
+import kotlinx.coroutines.launch
+
+class ScheduleViewModel(application: Application) : AndroidViewModel(application) {
+    private val repository = ScheduleRepository(application)
+
+    val schedules: StateFlow<List<ScheduleEntity>> = repository.observeAll()
+        .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), emptyList())
+
+    fun save(schedule: ScheduleEntity) {
+        viewModelScope.launch { repository.save(schedule) }
+    }
+
+    fun delete(schedule: ScheduleEntity) {
+        viewModelScope.launch { repository.delete(schedule) }
+    }
+
+    fun toggleEnabled(schedule: ScheduleEntity) {
+        viewModelScope.launch { repository.save(schedule.copy(isEnabled = !schedule.isEnabled)) }
+    }
+}

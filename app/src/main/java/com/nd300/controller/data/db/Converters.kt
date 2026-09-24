@@ -1,1 +1,17 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLmRiCgppbXBvcnQgYW5kcm9pZHgucm9vbS5UeXBlQ29udmVydGVyCgpjbGFzcyBDb252ZXJ0ZXJzIHsKICAgIEBUeXBlQ29udmVydGVyCiAgICBmdW4gZnJvbUxvZ0FjdGlvbih2YWx1ZTogTG9nQWN0aW9uKTogU3RyaW5nID0gdmFsdWUubmFtZQoKICAgIEBUeXBlQ29udmVydGVyCiAgICBmdW4gdG9Mb2dBY3Rpb24odmFsdWU6IFN0cmluZyk6IExvZ0FjdGlvbiA9IExvZ0FjdGlvbi52YWx1ZU9mKHZhbHVlKQoKICAgIEBUeXBlQ29udmVydGVyCiAgICBmdW4gZnJvbUxvZ1Jlc3VsdCh2YWx1ZTogTG9nUmVzdWx0KTogU3RyaW5nID0gdmFsdWUubmFtZQoKICAgIEBUeXBlQ29udmVydGVyCiAgICBmdW4gdG9Mb2dSZXN1bHQodmFsdWU6IFN0cmluZyk6IExvZ1Jlc3VsdCA9IExvZ1Jlc3VsdC52YWx1ZU9mKHZhbHVlKQp9Cg==
+package com.nd300.controller.data.db
+
+import androidx.room.TypeConverter
+
+class Converters {
+    @TypeConverter
+    fun fromLogAction(value: LogAction): String = value.name
+
+    @TypeConverter
+    fun toLogAction(value: String): LogAction = LogAction.valueOf(value)
+
+    @TypeConverter
+    fun fromLogResult(value: LogResult): String = value.name
+
+    @TypeConverter
+    fun toLogResult(value: String): LogResult = LogResult.valueOf(value)
+}

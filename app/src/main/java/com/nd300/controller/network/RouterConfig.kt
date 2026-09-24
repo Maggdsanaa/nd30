@@ -1,1 +1,15 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci5uZXR3b3JrCgpkYXRhIGNsYXNzIFJvdXRlckNvbmZpZygKICAgIHZhbCBpcDogU3RyaW5nLAogICAgdmFsIHBvcnQ6IFN0cmluZywgLy8g2YHYp9ix2LogPSA4MAogICAgdmFsIHVzZXJuYW1lOiBTdHJpbmcsCiAgICB2YWwgcGFzc3dvcmQ6IFN0cmluZywKICAgIHZhbCB0ZW1wbGF0ZXM6IFJvdXRlclRlbXBsYXRlU2V0CikgewogICAgdmFsIGJhc2VVcmw6IFN0cmluZwogICAgICAgIGdldCgpIHsKICAgICAgICAgICAgdmFsIHBvcnRQYXJ0ID0gaWYgKHBvcnQuaXNCbGFuaygpKSAiIiBlbHNlICI6JHBvcnQiCiAgICAgICAgICAgIHJldHVybiAiaHR0cDovLyRpcCRwb3J0UGFydCIKICAgICAgICB9Cn0K
+package com.nd300.controller.network
+
+data class RouterConfig(
+    val ip: String,
+    val port: String, // فارغ = 80
+    val username: String,
+    val password: String,
+    val templates: RouterTemplateSet
+) {
+    val baseUrl: String
+        get() {
+            val portPart = if (port.isBlank()) "" else ":$port"
+            return "http://$ip$portPart"
+        }
+}

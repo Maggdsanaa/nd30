@@ -1,1 +1,59 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci5zY2hlZHVsZXIKCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQnJvYWRjYXN0UmVjZWl2ZXIKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0CmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuSW50ZW50CmltcG9ydCBhbmRyb2lkeC53b3JrLkJhY2tvZmZQb2xpY3kKaW1wb3J0IGFuZHJvaWR4LndvcmsuQ29uc3RyYWludHMKaW1wb3J0IGFuZHJvaWR4LndvcmsuRGF0YQppbXBvcnQgYW5kcm9pZHgud29yay5OZXR3b3JrVHlwZQppbXBvcnQgYW5kcm9pZHgud29yay5PbmVUaW1lV29ya1JlcXVlc3RCdWlsZGVyCmltcG9ydCBhbmRyb2lkeC53b3JrLldvcmtNYW5hZ2VyCmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLmRiLlNjaGVkdWxlRW50aXR5CmltcG9ydCBqYXZhLnV0aWwuY29uY3VycmVudC5UaW1lVW5pdAoKY2xhc3MgU2NoZWR1bGVBbGFybVJlY2VpdmVyIDogQnJvYWRjYXN0UmVjZWl2ZXIoKSB7CgogICAgb3ZlcnJpZGUgZnVuIG9uUmVjZWl2ZShjb250ZXh0OiBDb250ZXh0LCBpbnRlbnQ6IEludGVudCkgewogICAgICAgIHZhbCBzY2hlZHVsZUlkID0gaW50ZW50LmdldExvbmdFeHRyYShBbGFybVNjaGVkdWxlci5FWFRSQV9TQ0hFRFVMRV9JRCwgLTEpCiAgICAgICAgdmFsIGFjdGlvblR5cGUgPSBpbnRlbnQuZ2V0U3RyaW5nRXh0cmEoQWxhcm1TY2hlZHVsZXIuRVhUUkFfQUNUSU9OX1RZUEUpID86IHJldHVybgogICAgICAgIHZhbCBkYXlPZldlZWsgPSBpbnRlbnQuZ2V0SW50RXh0cmEoQWxhcm1TY2hlZHVsZXIuRVhUUkFfREFZX09GX1dFRUssIDEpCiAgICAgICAgdmFsIGhvdXIgPSBpbnRlbnQuZ2V0SW50RXh0cmEoQWxhcm1TY2hlZHVsZXIuRVhUUkFfSE9VUiwgMCkKICAgICAgICB2YWwgbWludXRlID0gaW50ZW50LmdldEludEV4dHJhKEFsYXJtU2NoZWR1bGVyLkVYVFJBX01JTlVURSwgMCkKICAgICAgICB2YWwgc2NoZWR1bGVOYW1lID0gaW50ZW50LmdldFN0cmluZ0V4dHJhKEFsYXJtU2NoZWR1bGVyLkVYVFJBX1NDSEVEVUxFX05BTUUpCgogICAgICAgIC8vINmF2YfZhNipINiq2YbZgdmK2LAg2YLYtdmK2LHYqSDYqtmD2YHZiiDZhNil2LfZhNin2YIgV29ya01hbmFnZXIg2YLYqNmEINij2YYg2YrYudmE2ZHZgiDYp9mE2YbYuNin2YUg2KfZhNmAIFJlY2VpdmVyCiAgICAgICAgdmFsIHBlbmRpbmdSZXN1bHQgPSBnb0FzeW5jKCkKCiAgICAgICAgdmFsIGNvbnN0cmFpbnRzID0gQ29uc3RyYWludHMuQnVpbGRlcigpCiAgICAgICAgICAgIC5zZXRSZXF1aXJlZE5ldHdvcmtUeXBlKE5ldHdvcmtUeXBlLkNPTk5FQ1RFRCkKICAgICAgICAgICAgLmJ1aWxkKCkKCiAgICAgICAgdmFsIGRhdGEgPSBEYXRhLkJ1aWxkZXIoKQogICAgICAgICAgICAucHV0U3RyaW5nKFJvdXRlckFjdGlvbldvcmtlci5LRVlfQUNUSU9OX1RZUEUsIGFjdGlvblR5cGUpCiAgICAgICAgICAgIC5wdXRTdHJpbmcoUm91dGVyQWN0aW9uV29ya2VyLktFWV9TQ0hFRFVMRV9OQU1FLCBzY2hlZHVsZU5hbWUpCiAgICAgICAgICAgIC5idWlsZCgpCgogICAgICAgIHZhbCB3b3JrUmVxdWVzdCA9IE9uZVRpbWVXb3JrUmVxdWVzdEJ1aWxkZXI8Um91dGVyQWN0aW9uV29ya2VyPigpCiAgICAgICAgICAgIC5zZXRJbnB1dERhdGEoZGF0YSkKICAgICAgICAgICAgLnNldENvbnN0cmFpbnRzKGNvbnN0cmFpbnRzKQogICAgICAgICAgICAuc2V0QmFja29mZkNyaXRlcmlhKEJhY2tvZmZQb2xpY3kuTElORUFSLCAzMCwgVGltZVVuaXQuU0VDT05EUykKICAgICAgICAgICAgLmJ1aWxkKCkKCiAgICAgICAgV29ya01hbmFnZXIuZ2V0SW5zdGFuY2UoY29udGV4dCkuZW5xdWV1ZSh3b3JrUmVxdWVzdCkKCiAgICAgICAgLy8g2KPYudivINis2K/ZiNmE2Kkg2YbZgdizINin2YTYqtmG2KjZitmHINmE2YTYo9iz2KjZiNi5INin2YTZgtin2K/ZhSAo2YbZgdizINin2YTZitmI2YUv2KfZhNmI2YLYqikg2K3YqtmJINmK2LPYqtmF2LEg2KfZhNis2K/ZiNmEINij2LPYqNmI2LnZitin2YsKICAgICAgICB2YWwgZmFrZVNjaGVkdWxlID0gU2NoZWR1bGVFbnRpdHkoCiAgICAgICAgICAgIGlkID0gc2NoZWR1bGVJZCwKICAgICAgICAgICAgbmFtZSA9IHNjaGVkdWxlTmFtZSA/OiAiIiwKICAgICAgICAgICAgb2ZmSG91ciA9IGlmIChhY3Rpb25UeXBlID09IEFsYXJtU2NoZWR1bGVyLkFDVElPTl9PRkYpIGhvdXIgZWxzZSAwLAogICAgICAgICAgICBvZmZNaW51dGUgPSBpZiAoYWN0aW9uVHlwZSA9PSBBbGFybVNjaGVkdWxlci5BQ1RJT05fT0ZGKSBtaW51dGUgZWxzZSAwLAogICAgICAgICAgICBvbkhvdXIgPSBpZiAoYWN0aW9uVHlwZSA9PSBBbGFybVNjaGVkdWxlci5BQ1RJT05fT04pIGhvdXIgZWxzZSAwLAogICAgICAgICAgICBvbk1pbnV0ZSA9IGlmIChhY3Rpb25UeXBlID09IEFsYXJtU2NoZWR1bGVyLkFDVElPTl9PTikgbWludXRlIGVsc2UgMCwKICAgICAgICAgICAgZGF5cyA9IGRheU9mV2Vlay50b1N0cmluZygpCiAgICAgICAgKQogICAgICAgIEFsYXJtU2NoZWR1bGVyLnNjaGVkdWxlT25lKGNvbnRleHQsIGZha2VTY2hlZHVsZSwgZGF5T2ZXZWVrLCBhY3Rpb25UeXBlLCBob3VyLCBtaW51dGUpCgogICAgICAgIHBlbmRpbmdSZXN1bHQuZmluaXNoKCkKICAgIH0KfQo=
+package com.nd300.controller.scheduler
+
+import android.content.BroadcastReceiver
+import android.content.Context
+import android.content.Intent
+import androidx.work.BackoffPolicy
+import androidx.work.Constraints
+import androidx.work.Data
+import androidx.work.NetworkType
+import androidx.work.OneTimeWorkRequestBuilder
+import androidx.work.WorkManager
+import com.nd300.controller.data.db.ScheduleEntity
+import java.util.concurrent.TimeUnit
+
+class ScheduleAlarmReceiver : BroadcastReceiver() {
+
+    override fun onReceive(context: Context, intent: Intent) {
+        val scheduleId = intent.getLongExtra(AlarmScheduler.EXTRA_SCHEDULE_ID, -1)
+        val actionType = intent.getStringExtra(AlarmScheduler.EXTRA_ACTION_TYPE) ?: return
+        val dayOfWeek = intent.getIntExtra(AlarmScheduler.EXTRA_DAY_OF_WEEK, 1)
+        val hour = intent.getIntExtra(AlarmScheduler.EXTRA_HOUR, 0)
+        val minute = intent.getIntExtra(AlarmScheduler.EXTRA_MINUTE, 0)
+        val scheduleName = intent.getStringExtra(AlarmScheduler.EXTRA_SCHEDULE_NAME)
+
+        // مهلة تنفيذ قصيرة تكفي لإطلاق WorkManager قبل أن يعلّق النظام الـ Receiver
+        val pendingResult = goAsync()
+
+        val constraints = Constraints.Builder()
+            .setRequiredNetworkType(NetworkType.CONNECTED)
+            .build()
+
+        val data = Data.Builder()
+            .putString(RouterActionWorker.KEY_ACTION_TYPE, actionType)
+            .putString(RouterActionWorker.KEY_SCHEDULE_NAME, scheduleName)
+            .build()
+
+        val workRequest = OneTimeWorkRequestBuilder<RouterActionWorker>()
+            .setInputData(data)
+            .setConstraints(constraints)
+            .setBackoffCriteria(BackoffPolicy.LINEAR, 30, TimeUnit.SECONDS)
+            .build()
+
+        WorkManager.getInstance(context).enqueue(workRequest)
+
+        // أعد جدولة نفس التنبيه للأسبوع القادم (نفس اليوم/الوقت) حتى يستمر الجدول أسبوعياً
+        val fakeSchedule = ScheduleEntity(
+            id = scheduleId,
+            name = scheduleName ?: "",
+            offHour = if (actionType == AlarmScheduler.ACTION_OFF) hour else 0,
+            offMinute = if (actionType == AlarmScheduler.ACTION_OFF) minute else 0,
+            onHour = if (actionType == AlarmScheduler.ACTION_ON) hour else 0,
+            onMinute = if (actionType == AlarmScheduler.ACTION_ON) minute else 0,
+            days = dayOfWeek.toString()
+        )
+        AlarmScheduler.scheduleOne(context, fakeSchedule, dayOfWeek, actionType, hour, minute)
+
+        pendingResult.finish()
+    }
+}

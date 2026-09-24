@@ -1,1 +1,93 @@
-cGx1Z2lucyB7CiAgICBpZCgiY29tLmFuZHJvaWQuYXBwbGljYXRpb24iKQogICAgaWQoIm9yZy5qZXRicmFpbnMua290bGluLmFuZHJvaWQiKQogICAgaWQoIm9yZy5qZXRicmFpbnMua290bGluLnBsdWdpbi5zZXJpYWxpemF0aW9uIikKICAgIGlkKCJjb20uZ29vZ2xlLmRldnRvb2xzLmtzcCIpCn0KCmFuZHJvaWQgewogICAgbmFtZXNwYWNlID0gImNvbS5uZDMwMC5jb250cm9sbGVyIgogICAgY29tcGlsZVNkayA9IDM0CgogICAgZGVmYXVsdENvbmZpZyB7CiAgICAgICAgYXBwbGljYXRpb25JZCA9ICJjb20ubmQzMDAuY29udHJvbGxlciIKICAgICAgICBtaW5TZGsgPSAyNgogICAgICAgIHRhcmdldFNkayA9IDM0CiAgICAgICAgdmVyc2lvbkNvZGUgPSAxCiAgICAgICAgdmVyc2lvbk5hbWUgPSAiMS4wLjAiCiAgICAgICAgdGVzdEluc3RydW1lbnRhdGlvblJ1bm5lciA9ICJhbmRyb2lkeC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCiAgICB9CgogICAgYnVpbGRUeXBlcyB7CiAgICAgICAgcmVsZWFzZSB7CiAgICAgICAgICAgIGlzTWluaWZ5RW5hYmxlZCA9IHRydWUKICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcygKICAgICAgICAgICAgICAgIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoInByb2d1YXJkLWFuZHJvaWQtb3B0aW1pemUudHh0IiksCiAgICAgICAgICAgICAgICAicHJvZ3VhcmQtcnVsZXMucHJvIgogICAgICAgICAgICApCiAgICAgICAgfQogICAgICAgIGRlYnVnIHsKICAgICAgICAgICAgaXNNaW5pZnlFbmFibGVkID0gZmFsc2UKICAgICAgICB9CiAgICB9CgogICAgY29tcGlsZU9wdGlvbnMgewogICAgICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzE3CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMTcKICAgIH0KICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgIGp2bVRhcmdldCA9ICIxNyIKICAgIH0KCiAgICBidWlsZEZlYXR1cmVzIHsKICAgICAgICBjb21wb3NlID0gdHJ1ZQogICAgfQogICAgY29tcG9zZU9wdGlvbnMgewogICAgICAgIGtvdGxpbkNvbXBpbGVyRXh0ZW5zaW9uVmVyc2lvbiA9ICIxLjUuMTQiCiAgICB9CgogICAgcGFja2FnaW5nIHsKICAgICAgICByZXNvdXJjZXMgewogICAgICAgICAgICBleGNsdWRlcyArPSAiL01FVEEtSU5GL3tBTDIuMCxMR1BMMi4xfSIKICAgICAgICB9CiAgICB9Cn0KCmRlcGVuZGVuY2llcyB7CiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHguY29yZTpjb3JlLWt0eDoxLjEzLjEiKQogICAgaW1wbGVtZW50YXRpb24oImFuZHJvaWR4LmxpZmVjeWNsZTpsaWZlY3ljbGUtcnVudGltZS1rdHg6Mi44LjQiKQogICAgaW1wbGVtZW50YXRpb24oImFuZHJvaWR4LmxpZmVjeWNsZTpsaWZlY3ljbGUtdmlld21vZGVsLWNvbXBvc2U6Mi44LjQiKQogICAgaW1wbGVtZW50YXRpb24oImFuZHJvaWR4LmFjdGl2aXR5OmFjdGl2aXR5LWNvbXBvc2U6MS45LjEiKQoKICAgIC8vIENvbXBvc2UgQk9NCiAgICBpbXBsZW1lbnRhdGlvbihwbGF0Zm9ybSgiYW5kcm9pZHguY29tcG9zZTpjb21wb3NlLWJvbToyMDI0LjA2LjAwIikpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHguY29tcG9zZS51aTp1aSIpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHguY29tcG9zZS51aTp1aS1ncmFwaGljcyIpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHguY29tcG9zZS51aTp1aS10b29saW5nLXByZXZpZXciKQogICAgaW1wbGVtZW50YXRpb24oImFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzOm1hdGVyaWFsMyIpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDptYXRlcmlhbC1pY29ucy1leHRlbmRlZCIpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHgubmF2aWdhdGlvbjpuYXZpZ2F0aW9uLWNvbXBvc2U6Mi43LjciKQoKICAgIC8vIFJvb20KICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5yb29tOnJvb20tcnVudGltZToyLjYuMSIpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHgucm9vbTpyb29tLWt0eDoyLjYuMSIpCiAgICBrc3AoImFuZHJvaWR4LnJvb206cm9vbS1jb21waWxlcjoyLjYuMSIpCgogICAgLy8gRGF0YVN0b3JlCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHguZGF0YXN0b3JlOmRhdGFzdG9yZS1wcmVmZXJlbmNlczoxLjEuMSIpCgogICAgLy8gU2VjdXJpdHkKICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5zZWN1cml0eTpzZWN1cml0eS1jcnlwdG86MS4xLjAtYWxwaGEwNiIpCgogICAgLy8gV29ya01hbmFnZXIgKHVzZWQgZnJvbSBBbGFybU1hbmFnZXIgcmVjZWl2ZXIgZm9yIHJlbGlhYmxlIHJldHJ5YWJsZSBleGVjdXRpb24pCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHgud29yazp3b3JrLXJ1bnRpbWUta3R4OjIuOS4xIikKCiAgICAvLyBOZXR3b3JraW5nCiAgICBpbXBsZW1lbnRhdGlvbigiY29tLnNxdWFyZXVwLm9raHR0cDM6b2todHRwOjQuMTIuMCIpCgogICAgLy8gS290bGluIGNvcm91dGluZXMKICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWFuZHJvaWQ6MS44LjEiKQogICAgaW1wbGVtZW50YXRpb24oIm9yZy5qZXRicmFpbnMua290bGlueDprb3RsaW54LXNlcmlhbGl6YXRpb24tanNvbjoxLjYuMyIpCgogICAgZGVidWdJbXBsZW1lbnRhdGlvbigiYW5kcm9pZHguY29tcG9zZS51aTp1aS10b29saW5nIikKfQo=
+plugins {
+    id("com.android.application")
+    id("org.jetbrains.kotlin.android")
+    id("org.jetbrains.kotlin.plugin.serialization")
+    id("com.google.devtools.ksp")
+}
+
+android {
+    namespace = "com.nd300.controller"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.nd300.controller"
+        minSdk = 26
+        targetSdk = 34
+        versionCode = 1
+        versionName = "1.0.0"
+        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            isMinifyEnabled = true
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
+        }
+        debug {
+            isMinifyEnabled = false
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+
+    buildFeatures {
+        compose = true
+    }
+    composeOptions {
+        kotlinCompilerExtensionVersion = "1.5.14"
+    }
+
+    packaging {
+        resources {
+            excludes += "/META-INF/{AL2.0,LGPL2.1}"
+        }
+    }
+}
+
+dependencies {
+    implementation("androidx.core:core-ktx:1.13.1")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.4")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.4")
+    implementation("androidx.activity:activity-compose:1.9.1")
+
+    // Compose BOM
+    implementation(platform("androidx.compose:compose-bom:2024.06.00"))
+    implementation("androidx.compose.ui:ui")
+    implementation("androidx.compose.ui:ui-graphics")
+    implementation("androidx.compose.ui:ui-tooling-preview")
+    implementation("androidx.compose.material3:material3")
+    implementation("androidx.compose.material:material-icons-extended")
+    implementation("androidx.navigation:navigation-compose:2.7.7")
+
+    // Room
+    implementation("androidx.room:room-runtime:2.6.1")
+    implementation("androidx.room:room-ktx:2.6.1")
+    ksp("androidx.room:room-compiler:2.6.1")
+
+    // DataStore
+    implementation("androidx.datastore:datastore-preferences:1.1.1")
+
+    // Security
+    implementation("androidx.security:security-crypto:1.1.0-alpha06")
+
+    // WorkManager (used from AlarmManager receiver for reliable retryable execution)
+    implementation("androidx.work:work-runtime-ktx:2.9.1")
+
+    // Networking
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
+
+    // Kotlin coroutines
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
+
+    debugImplementation("androidx.compose.ui:ui-tooling")
+}

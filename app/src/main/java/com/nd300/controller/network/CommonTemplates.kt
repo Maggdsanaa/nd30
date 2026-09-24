@@ -1,1 +1,51 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci5uZXR3b3JrCgovKioKICog2YLZiNin2YTYqCDZhdix2KzYudmK2KkgItmG2YLYt9ipINin2YbYt9mE2KfZgiIg2YHZgti3IOKAlCDYutmK2LEg2YXYpNmD2K/YqSDZhNi32LHYp9iyIE5EMzAwINiq2K3Yr9mK2K/Yp9mLLgogKgogKiDZh9iw2Ycg2YTZitiz2Kog2KPZiNin2YXYsSDZhdiu2KrYsdi52Kkg2KjZhNinINmF2LXYr9ixOiDZhtmF2LcgY3N0ZWNnaS5jZ2kgKGFjdGlvbj14eHgg2YXYuSDZhdi52KfZhdmEIHRva2VuKQogKiDZh9mIINmG2YXYtyDZhdmI2KvZkdmCINmB2LnZhNmK2KfZiyDZgdmKINiq2K3ZhNmK2YTYp9iqINi52YTZhtmK2Kkg2YTZiNin2KzZh9ipINin2YTZiNmK2Kgg2KfZhNmF2LPYqtiu2K/ZhdipINmB2Yog2LnYr9ipINi32LHYp9iy2KfYqiBUT1RPTElOSwogKiAo2YXYq9mEIEEzMzAwUiDZiFg1MDAwUiDZiFg2MDAwUinYjCDZhNmD2YYg2YTYpyDZitmI2KzYryDYqtij2YPZitivINio2KPZhiBORDMwMCAo2YjZh9mIINmF2YjYr9mFIEFEU0wg2KPZgtiv2YUpCiAqINmK2LPYqtiu2K/ZhSDZhtmB2LMg2KfZhNmI2KfYrNmH2Kkg2KjYp9mE2LbYqNi3LiDZhNiw2YTZgzoKICogICAxKSDZh9iw2Ycg2KfZhNmC2YjYp9mE2Kgg2YXZj9i52LfZkdmE2Kkg2KfZgdiq2LHYp9i22YrYp9mLICjZhNinINiq2Y/Ys9iq2K7Yr9mFINiq2YTZgtin2KbZitin2YspLgogKiAgIDIpINmK2KzYqCDYudmE2Ykg2KfZhNmF2LPYqtiu2K/ZhSDYqtit2YXZitmE2YfYpyDZitiv2YjZitin2Ysg2YXZhiDYtNin2LTYqSDYp9mE2KXYudiv2KfYryDZg9mG2YLYt9ipINio2K/Yp9mK2Kkg2YHZgti32IwKICogICAgICDYq9mFINin2YTYqtit2YLZgiDZhdmG2YfYpyDYudio2LEgItin2K7Yqtio2KfYsSDYp9mE2KfYqti12KfZhCLYjCDZiNiq2LnYr9mK2YTZh9inINit2LPYqCDYp9mE2K3Yp9is2Kkg2KfZhNmB2LnZhNmK2Kkg2KjYudivCiAqICAgICAg2KfZhNiq2YLYp9i3INin2YTYt9mE2Kgg2KfZhNit2YLZitmC2Yog2YXZhiDZhdiq2LXZgdit2YcgKNix2KfYrNi5INiv2YTZitmEINin2YTYp9mE2KrZgtin2Lcg2YHZiiBSRUFETUUpLgogKiAgIDMpINil2LDYpyDZhNmFINiq2YbYrNitINmH2LDZhyDYp9mE2YLZiNin2YTYqNiMINmB2KfZhNi32LHZitmC2Kkg2KfZhNmF2YjYq9mI2YLYqSDYp9mE2YjYrdmK2K/YqSDZh9mKINin2YTYp9mE2KrZgtin2Lcg2KfZhNmK2K/ZiNmKLgogKi8Kb2JqZWN0IENvbW1vblRlbXBsYXRlcyB7CgogICAgLyoqINmG2YXYtyDYtNin2KbYuSDZgdmKINio2LnYtiDYt9ix2KfYstin2KogVE9UT0xJTksg2KfZhNij2K3Yr9irOiBjZ2ktYmluL2NzdGVjZ2kuY2dpICsgdG9rZW4uINi62YrYsSDZhdik2YPYryDZhNmAIE5EMzAwLiAqLwogICAgdmFsIGNzdGVjZ2lTdHlsZSA9IFJvdXRlclRlbXBsYXRlU2V0KAogICAgICAgIGxvZ2luID0gUmVxdWVzdFRlbXBsYXRlKAogICAgICAgICAgICBtZXRob2QgPSAiUE9TVCIsCiAgICAgICAgICAgIHBhdGggPSAiL2NnaS1iaW4vY3N0ZWNnaS5jZ2k/YWN0aW9uPWxvZ2luIiwKICAgICAgICAgICAgYm9keVRlbXBsYXRlID0gImFjdGlvbj1sb2dpbiZ1c2VyPXt1c2VybmFtZX0mcGFzc3dvcmQ9e3Bhc3N3b3JkfSIsCiAgICAgICAgICAgIHN1Y2Nlc3NDb250YWlucyA9ICJcInN1Y2NcIiIsIC8vINmF2KvYp9mEINmB2YLYtyDigJQg2LnYr9mR2YTZhyDYqNi52K8g2KfZhNin2YTYqtmC2KfYtyDYp9mE2YHYudmE2YoKICAgICAgICAgICAgZXh0cmFjdFRva2VuUmVnZXggPSAiXCJ0b2tlblwiXFxzKjpcXHMqXCIoW0EtWmEtejAtOV0rKVwiIgogICAgICAgICksCiAgICAgICAgZ2V0U3RhdHVzID0gUmVxdWVzdFRlbXBsYXRlKAogICAgICAgICAgICBtZXRob2QgPSAiR0VUIiwKICAgICAgICAgICAgcGF0aCA9ICIvY2dpLWJpbi9jc3RlY2dpLmNnaT9hY3Rpb249Z2V0V2FuQ2ZnJnRva2VuPXt0b2tlbn0iCiAgICAgICAgKSwKICAgICAgICBkaXNhYmxlSW50ZXJuZXQgPSBSZXF1ZXN0VGVtcGxhdGUoCiAgICAgICAgICAgIG1ldGhvZCA9ICJQT1NUIiwKICAgICAgICAgICAgcGF0aCA9ICIvY2dpLWJpbi9jc3RlY2dpLmNnaT9hY3Rpb249c2V0V2FuQ2ZnJnRva2VuPXt0b2tlbn0iLAogICAgICAgICAgICBib2R5VGVtcGxhdGUgPSAiYWN0aW9uPXNldFdhbkNmZyZ3YW5FbmFibGU9MCIKICAgICAgICApLAogICAgICAgIGVuYWJsZUludGVybmV0ID0gUmVxdWVzdFRlbXBsYXRlKAogICAgICAgICAgICBtZXRob2QgPSAiUE9TVCIsCiAgICAgICAgICAgIHBhdGggPSAiL2NnaS1iaW4vY3N0ZWNnaS5jZ2k/YWN0aW9uPXNldFdhbkNmZyZ0b2tlbj17dG9rZW59IiwKICAgICAgICAgICAgYm9keVRlbXBsYXRlID0gImFjdGlvbj1zZXRXYW5DZmcmd2FuRW5hYmxlPTEiCiAgICAgICAgKSwKICAgICAgICByZWJvb3QgPSBSZXF1ZXN0VGVtcGxhdGUoCiAgICAgICAgICAgIG1ldGhvZCA9ICJQT1NUIiwKICAgICAgICAgICAgcGF0aCA9ICIvY2dpLWJpbi9jc3RlY2dpLmNnaT9hY3Rpb249cmVib290JnRva2VuPXt0b2tlbn0iLAogICAgICAgICAgICBib2R5VGVtcGxhdGUgPSAiYWN0aW9uPXJlYm9vdCIKICAgICAgICApLAogICAgICAgIGRpc2FibGVJbnRlcm5ldE1lYW5zID0gIldBTiIKICAgICkKCiAgICAvKiog2YLYp9mE2Kgg2YHYp9ix2Log2KrZhdin2YXYp9mLIOKAlCDYp9mE2KjYr9in2YrYqSDYp9mE2YXZiNi12Ykg2KjZh9inOiDYp9mF2YTYo9mHINio2LnYryDYp9mE2KfZhNiq2YLYp9i3INin2YTZitiv2YjZiiDZgdmC2LcuICovCiAgICB2YWwgYmxhbmsgPSBSb3V0ZXJUZW1wbGF0ZVNldCgpCn0K
+package com.nd300.controller.network
+
+/**
+ * قوالب مرجعية "نقطة انطلاق" فقط — غير مؤكدة لطراز ND300 تحديداً.
+ *
+ * هذه ليست أوامر مخترعة بلا مصدر: نمط cstecgi.cgi (action=xxx مع معامل token)
+ * هو نمط موثّق فعلياً في تحليلات علنية لواجهة الويب المستخدمة في عدة طرازات TOTOLINK
+ * (مثل A3300R وX5000R وX6000R)، لكن لا يوجد تأكيد بأن ND300 (وهو مودم ADSL أقدم)
+ * يستخدم نفس الواجهة بالضبط. لذلك:
+ *   1) هذه القوالب مُعطّلة افتراضياً (لا تُستخدم تلقائياً).
+ *   2) يجب على المستخدم تحميلها يدوياً من شاشة الإعداد كنقطة بداية فقط،
+ *      ثم التحقق منها عبر "اختبار الاتصال"، وتعديلها حسب الحاجة الفعلية بعد
+ *      التقاط الطلب الحقيقي من متصفحه (راجع دليل الالتقاط في README).
+ *   3) إذا لم تنجح هذه القوالب، فالطريقة الموثوقة الوحيدة هي الالتقاط اليدوي.
+ */
+object CommonTemplates {
+
+    /** نمط شائع في بعض طرازات TOTOLINK الأحدث: cgi-bin/cstecgi.cgi + token. غير مؤكد لـ ND300. */
+    val cstecgiStyle = RouterTemplateSet(
+        login = RequestTemplate(
+            method = "POST",
+            path = "/cgi-bin/cstecgi.cgi?action=login",
+            bodyTemplate = "action=login&user={username}&password={password}",
+            successContains = "\"succ\"", // مثال فقط — عدّله بعد الالتقاط الفعلي
+            extractTokenRegex = "\"token\"\\s*:\\s*\"([A-Za-z0-9]+)\""
+        ),
+        getStatus = RequestTemplate(
+            method = "GET",
+            path = "/cgi-bin/cstecgi.cgi?action=getWanCfg&token={token}"
+        ),
+        disableInternet = RequestTemplate(
+            method = "POST",
+            path = "/cgi-bin/cstecgi.cgi?action=setWanCfg&token={token}",
+            bodyTemplate = "action=setWanCfg&wanEnable=0"
+        ),
+        enableInternet = RequestTemplate(
+            method = "POST",
+            path = "/cgi-bin/cstecgi.cgi?action=setWanCfg&token={token}",
+            bodyTemplate = "action=setWanCfg&wanEnable=1"
+        ),
+        reboot = RequestTemplate(
+            method = "POST",
+            path = "/cgi-bin/cstecgi.cgi?action=reboot&token={token}",
+            bodyTemplate = "action=reboot"
+        ),
+        disableInternetMeans = "WAN"
+    )
+
+    /** قالب فارغ تماماً — البداية الموصى بها: املأه بعد الالتقاط اليدوي فقط. */
+    val blank = RouterTemplateSet()
+}

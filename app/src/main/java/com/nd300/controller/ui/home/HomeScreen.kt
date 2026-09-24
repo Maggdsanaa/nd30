@@ -1,1 +1,133 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci51aS5ob21lCgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC4qCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ucmVtZW1iZXJTY3JvbGxTdGF0ZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLnZlcnRpY2FsU2Nyb2xsCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsLmljb25zLkljb25zCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsLmljb25zLmZpbGxlZC4qCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy4qCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUuKgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS5BbGlnbm1lbnQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkuTW9kaWZpZXIKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkuZ3JhcGhpY3MuQ29sb3IKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkudGV4dC5mb250LkZvbnRXZWlnaHQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkudW5pdC5kcAppbXBvcnQgYW5kcm9pZHgubGlmZWN5Y2xlLnZpZXdtb2RlbC5jb21wb3NlLnZpZXdNb2RlbAppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuUgppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIudWkudmlld21vZGVsLkNvbm5lY3Rpb25TdGF0ZQppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIudWkudmlld21vZGVsLkhvbWVWaWV3TW9kZWwKCkBDb21wb3NhYmxlCmZ1biBIb21lU2NyZWVuKCkgewogICAgdmFsIHZpZXdNb2RlbDogSG9tZVZpZXdNb2RlbCA9IHZpZXdNb2RlbCgpCiAgICB2YWwgc3RhdGUgYnkgdmlld01vZGVsLnN0YXRlLmNvbGxlY3RBc1N0YXRlKCkKCiAgICBDb2x1bW4oCiAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAuZmlsbE1heFNpemUoKQogICAgICAgICAgICAudmVydGljYWxTY3JvbGwocmVtZW1iZXJTY3JvbGxTdGF0ZSgpKQogICAgICAgICAgICAucGFkZGluZygyMC5kcCksCiAgICAgICAgaG9yaXpvbnRhbEFsaWdubWVudCA9IEFsaWdubWVudC5DZW50ZXJIb3Jpem9udGFsbHkKICAgICkgewogICAgICAgIFRleHQoCiAgICAgICAgICAgIHRleHQgPSBzdHJpbmdSZXMoUi5zdHJpbmcuaG9tZV90aXRsZSksCiAgICAgICAgICAgIHN0eWxlID0gTWF0ZXJpYWxUaGVtZS50eXBvZ3JhcGh5LmhlYWRsaW5lU21hbGwsCiAgICAgICAgICAgIGZvbnRXZWlnaHQgPSBGb250V2VpZ2h0LkJvbGQKICAgICAgICApCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgyMC5kcCkpCgogICAgICAgIFN0YXR1c0NhcmQoc3RhdGUuY29ubmVjdGlvblN0YXRlLCBzdGF0ZS5pc0J1c3kpIHsgdmlld01vZGVsLnJlZnJlc2hTdGF0dXMoKSB9CgogICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoMjQuZHApKQoKICAgICAgICBBY3Rpb25CdXR0b24oCiAgICAgICAgICAgIHRleHQgPSBzdHJpbmdSZXMoUi5zdHJpbmcuZW5hYmxlX2ludGVybmV0KSwKICAgICAgICAgICAgaWNvbiA9IEljb25zLkZpbGxlZC5XaWZpLAogICAgICAgICAgICBjb250YWluZXJDb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUucHJpbWFyeSwKICAgICAgICAgICAgZW5hYmxlZCA9ICFzdGF0ZS5pc0J1c3kKICAgICAgICApIHsgdmlld01vZGVsLmVuYWJsZUludGVybmV0KCkgfQoKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDEyLmRwKSkKCiAgICAgICAgQWN0aW9uQnV0dG9uKAogICAgICAgICAgICB0ZXh0ID0gc3RyaW5nUmVzKFIuc3RyaW5nLmRpc2FibGVfaW50ZXJuZXQpLAogICAgICAgICAgICBpY29uID0gSWNvbnMuRmlsbGVkLldpZmlPZmYsCiAgICAgICAgICAgIGNvbnRhaW5lckNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5lcnJvciwKICAgICAgICAgICAgZW5hYmxlZCA9ICFzdGF0ZS5pc0J1c3kKICAgICAgICApIHsgdmlld01vZGVsLmRpc2FibGVJbnRlcm5ldCgpIH0KCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMi5kcCkpCgogICAgICAgIEFjdGlvbkJ1dHRvbigKICAgICAgICAgICAgdGV4dCA9IHN0cmluZ1JlcyhSLnN0cmluZy5yZWJvb3Rfcm91dGVyKSwKICAgICAgICAgICAgaWNvbiA9IEljb25zLkZpbGxlZC5SZXN0YXJ0QWx0LAogICAgICAgICAgICBjb250YWluZXJDb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUuc2Vjb25kYXJ5LAogICAgICAgICAgICBlbmFibGVkID0gIXN0YXRlLmlzQnVzeQogICAgICAgICkgeyB2aWV3TW9kZWwucmVib290KCkgfQoKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDIwLmRwKSkKCiAgICAgICAgc3RhdGUubGFzdE1lc3NhZ2U/LmxldCB7IG1zZyAtPgogICAgICAgICAgICBDYXJkKGNvbG9ycyA9IENhcmREZWZhdWx0cy5jYXJkQ29sb3JzKGNvbnRhaW5lckNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5zdXJmYWNlVmFyaWFudCkpIHsKICAgICAgICAgICAgICAgIFRleHQobXNnLCBtb2RpZmllciA9IE1vZGlmaWVyLnBhZGRpbmcoMTQuZHApKQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBpZiAoc3RhdGUuaXNCdXN5KSB7CiAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoMTYuZHApKQogICAgICAgICAgICBDaXJjdWxhclByb2dyZXNzSW5kaWNhdG9yKCkKICAgICAgICB9CiAgICB9Cn0KCkBDb21wb3NhYmxlCnByaXZhdGUgZnVuIFN0YXR1c0NhcmQoY29ubmVjdGlvblN0YXRlOiBDb25uZWN0aW9uU3RhdGUsIGlzQnVzeTogQm9vbGVhbiwgb25SZWZyZXNoOiAoKSAtPiBVbml0KSB7CiAgICB2YWwgKGxhYmVsLCBjb2xvcikgPSB3aGVuIChjb25uZWN0aW9uU3RhdGUpIHsKICAgICAgICBDb25uZWN0aW9uU3RhdGUuQ09OTkVDVEVEIC0+IHN0cmluZ1JlcyhSLnN0cmluZy5jb25uZWN0ZWQpIHRvIENvbG9yKDB4RkYyRTdEMzIpCiAgICAgICAgQ29ubmVjdGlvblN0YXRlLkRJU0NPTk5FQ1RFRCAtPiBzdHJpbmdSZXMoUi5zdHJpbmcuZGlzY29ubmVjdGVkKSB0byBDb2xvcigweEZGQzYyODI4KQogICAgICAgIENvbm5lY3Rpb25TdGF0ZS5VTktOT1dOIC0+ICLigJQiIHRvIENvbG9yLkdyYXkKICAgIH0KCiAgICBDYXJkKG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkpIHsKICAgICAgICBSb3coCiAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIKICAgICAgICAgICAgICAgIC5maWxsTWF4V2lkdGgoKQogICAgICAgICAgICAgICAgLnBhZGRpbmcoMTYuZHApLAogICAgICAgICAgICB2ZXJ0aWNhbEFsaWdubWVudCA9IEFsaWdubWVudC5DZW50ZXJWZXJ0aWNhbGx5LAogICAgICAgICAgICBob3Jpem9udGFsQXJyYW5nZW1lbnQgPSBBcnJhbmdlbWVudC5TcGFjZUJldHdlZW4KICAgICAgICApIHsKICAgICAgICAgICAgQ29sdW1uIHsKICAgICAgICAgICAgICAgIFRleHQoc3RyaW5nUmVzKFIuc3RyaW5nLmNvbm5lY3Rpb25fc3RhdHVzKSwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkubGFiZWxNZWRpdW0pCiAgICAgICAgICAgICAgICBUZXh0KGxhYmVsLCBjb2xvciA9IGNvbG9yLCBmb250V2VpZ2h0ID0gRm9udFdlaWdodC5Cb2xkLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS50aXRsZU1lZGl1bSkKICAgICAgICAgICAgfQogICAgICAgICAgICBJY29uQnV0dG9uKG9uQ2xpY2sgPSBvblJlZnJlc2gsIGVuYWJsZWQgPSAhaXNCdXN5KSB7CiAgICAgICAgICAgICAgICBJY29uKEljb25zLkZpbGxlZC5SZWZyZXNoLCBjb250ZW50RGVzY3JpcHRpb24gPSBzdHJpbmdSZXMoUi5zdHJpbmcucmVmcmVzaF9zdGF0dXMpKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9CgpAQ29tcG9zYWJsZQpwcml2YXRlIGZ1biBBY3Rpb25CdXR0b24oCiAgICB0ZXh0OiBTdHJpbmcsCiAgICBpY29uOiBhbmRyb2lkeC5jb21wb3NlLnVpLmdyYXBoaWNzLnZlY3Rvci5JbWFnZVZlY3RvciwKICAgIGNvbnRhaW5lckNvbG9yOiBDb2xvciwKICAgIGVuYWJsZWQ6IEJvb2xlYW4sCiAgICBvbkNsaWNrOiAoKSAtPiBVbml0CikgewogICAgQnV0dG9uKAogICAgICAgIG9uQ2xpY2sgPSBvbkNsaWNrLAogICAgICAgIGVuYWJsZWQgPSBlbmFibGVkLAogICAgICAgIGNvbG9ycyA9IEJ1dHRvbkRlZmF1bHRzLmJ1dHRvbkNvbG9ycyhjb250YWluZXJDb2xvciA9IGNvbnRhaW5lckNvbG9yKSwKICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyCiAgICAgICAgICAgIC5maWxsTWF4V2lkdGgoKQogICAgICAgICAgICAuaGVpZ2h0KDU2LmRwKQogICAgKSB7CiAgICAgICAgSWNvbihpY29uLCBjb250ZW50RGVzY3JpcHRpb24gPSBudWxsKQogICAgICAgIFNwYWNlcihNb2RpZmllci53aWR0aCgxMC5kcCkpCiAgICAgICAgVGV4dCh0ZXh0LCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS50aXRsZU1lZGl1bSkKICAgIH0KfQoKQENvbXBvc2FibGUKcHJpdmF0ZSBmdW4gc3RyaW5nUmVzKGlkOiBJbnQpOiBTdHJpbmcgPSBhbmRyb2lkeC5jb21wb3NlLnVpLnBsYXRmb3JtLkxvY2FsQ29udGV4dC5jdXJyZW50LmdldFN0cmluZyhpZCkK
+package com.nd300.controller.ui.home
+
+import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.*
+import androidx.compose.material3.*
+import androidx.compose.runtime.*
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
+import androidx.lifecycle.viewmodel.compose.viewModel
+import com.nd300.controller.R
+import com.nd300.controller.ui.viewmodel.ConnectionState
+import com.nd300.controller.ui.viewmodel.HomeViewModel
+
+@Composable
+fun HomeScreen() {
+    val viewModel: HomeViewModel = viewModel()
+    val state by viewModel.state.collectAsState()
+
+    Column(
+        modifier = Modifier
+            .fillMaxSize()
+            .verticalScroll(rememberScrollState())
+            .padding(20.dp),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Text(
+            text = stringRes(R.string.home_title),
+            style = MaterialTheme.typography.headlineSmall,
+            fontWeight = FontWeight.Bold
+        )
+        Spacer(Modifier.height(20.dp))
+
+        StatusCard(state.connectionState, state.isBusy) { viewModel.refreshStatus() }
+
+        Spacer(Modifier.height(24.dp))
+
+        ActionButton(
+            text = stringRes(R.string.enable_internet),
+            icon = Icons.Filled.Wifi,
+            containerColor = MaterialTheme.colorScheme.primary,
+            enabled = !state.isBusy
+        ) { viewModel.enableInternet() }
+
+        Spacer(Modifier.height(12.dp))
+
+        ActionButton(
+            text = stringRes(R.string.disable_internet),
+            icon = Icons.Filled.WifiOff,
+            containerColor = MaterialTheme.colorScheme.error,
+            enabled = !state.isBusy
+        ) { viewModel.disableInternet() }
+
+        Spacer(Modifier.height(12.dp))
+
+        ActionButton(
+            text = stringRes(R.string.reboot_router),
+            icon = Icons.Filled.RestartAlt,
+            containerColor = MaterialTheme.colorScheme.secondary,
+            enabled = !state.isBusy
+        ) { viewModel.reboot() }
+
+        Spacer(Modifier.height(20.dp))
+
+        state.lastMessage?.let { msg ->
+            Card(colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant)) {
+                Text(msg, modifier = Modifier.padding(14.dp))
+            }
+        }
+
+        if (state.isBusy) {
+            Spacer(Modifier.height(16.dp))
+            CircularProgressIndicator()
+        }
+    }
+}
+
+@Composable
+private fun StatusCard(connectionState: ConnectionState, isBusy: Boolean, onRefresh: () -> Unit) {
+    val (label, color) = when (connectionState) {
+        ConnectionState.CONNECTED -> stringRes(R.string.connected) to Color(0xFF2E7D32)
+        ConnectionState.DISCONNECTED -> stringRes(R.string.disconnected) to Color(0xFFC62828)
+        ConnectionState.UNKNOWN -> "—" to Color.Gray
+    }
+
+    Card(modifier = Modifier.fillMaxWidth()) {
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(16.dp),
+            verticalAlignment = Alignment.CenterVertically,
+            horizontalArrangement = Arrangement.SpaceBetween
+        ) {
+            Column {
+                Text(stringRes(R.string.connection_status), style = MaterialTheme.typography.labelMedium)
+                Text(label, color = color, fontWeight = FontWeight.Bold, style = MaterialTheme.typography.titleMedium)
+            }
+            IconButton(onClick = onRefresh, enabled = !isBusy) {
+                Icon(Icons.Filled.Refresh, contentDescription = stringRes(R.string.refresh_status))
+            }
+        }
+    }
+}
+
+@Composable
+private fun ActionButton(
+    text: String,
+    icon: androidx.compose.ui.graphics.vector.ImageVector,
+    containerColor: Color,
+    enabled: Boolean,
+    onClick: () -> Unit
+) {
+    Button(
+        onClick = onClick,
+        enabled = enabled,
+        colors = ButtonDefaults.buttonColors(containerColor = containerColor),
+        modifier = Modifier
+            .fillMaxWidth()
+            .height(56.dp)
+    ) {
+        Icon(icon, contentDescription = null)
+        Spacer(Modifier.width(10.dp))
+        Text(text, style = MaterialTheme.typography.titleMedium)
+    }
+}
+
+@Composable
+private fun stringRes(id: Int): String = androidx.compose.ui.platform.LocalContext.current.getString(id)

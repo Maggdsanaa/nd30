@@ -1,1 +1,11 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlcgoKaW1wb3J0IGFuZHJvaWQuYXBwLkFwcGxpY2F0aW9uCmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5ub3RpZmljYXRpb25zLk5vdGlmaWNhdGlvbkhlbHBlcgoKY2xhc3MgVG90b2xpbmtBcHAgOiBBcHBsaWNhdGlvbigpIHsKICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZSgpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZSgpCiAgICAgICAgTm90aWZpY2F0aW9uSGVscGVyLmVuc3VyZUNoYW5uZWwodGhpcykKICAgIH0KfQo=
+package com.nd300.controller
+
+import android.app.Application
+import com.nd300.controller.notifications.NotificationHelper
+
+class TotolinkApp : Application() {
+    override fun onCreate() {
+        super.onCreate()
+        NotificationHelper.ensureChannel(this)
+    }
+}

@@ -1,1 +1,117 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlcgoKaW1wb3J0IGFuZHJvaWQuTWFuaWZlc3QKaW1wb3J0IGFuZHJvaWQuYXBwLkFsYXJtTWFuYWdlcgppbXBvcnQgYW5kcm9pZC5jb250ZW50LkludGVudAppbXBvcnQgYW5kcm9pZC5uZXQuVXJpCmltcG9ydCBhbmRyb2lkLm9zLkJ1aWxkCmltcG9ydCBhbmRyb2lkLm9zLkJ1bmRsZQppbXBvcnQgYW5kcm9pZC5wcm92aWRlci5TZXR0aW5ncwppbXBvcnQgYW5kcm9pZHguYWN0aXZpdHkuQ29tcG9uZW50QWN0aXZpdHkKaW1wb3J0IGFuZHJvaWR4LmFjdGl2aXR5LmNvbXBvc2Uuc2V0Q29udGVudAppbXBvcnQgYW5kcm9pZHguYWN0aXZpdHkucmVzdWx0LmNvbnRyYWN0LkFjdGl2aXR5UmVzdWx0Q29udHJhY3RzCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LnBhZGRpbmcKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwuaWNvbnMuSWNvbnMKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwuaWNvbnMuZmlsbGVkLkhpc3RvcnkKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwuaWNvbnMuZmlsbGVkLkhvbWUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwuaWNvbnMuZmlsbGVkLlNjaGVkdWxlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsLmljb25zLmZpbGxlZC5TZXR0aW5ncwppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuKgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLioKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkuTW9kaWZpZXIKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkucGxhdGZvcm0uTG9jYWxMYXlvdXREaXJlY3Rpb24KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkudW5pdC5MYXlvdXREaXJlY3Rpb24KaW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uTmF2SG9zdENvbnRyb2xsZXIKaW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uY29tcG9zZS5OYXZIb3N0CmltcG9ydCBhbmRyb2lkeC5uYXZpZ2F0aW9uLmNvbXBvc2UuY29tcG9zYWJsZQppbXBvcnQgYW5kcm9pZHgubmF2aWdhdGlvbi5jb21wb3NlLmN1cnJlbnRCYWNrU3RhY2tFbnRyeUFzU3RhdGUKaW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uY29tcG9zZS5yZW1lbWJlck5hdkNvbnRyb2xsZXIKaW1wb3J0IGNvbS5uZDMwMC5jb250cm9sbGVyLnVpLmhvbWUuSG9tZVNjcmVlbgppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIudWkubG9ncy5Mb2dzU2NyZWVuCmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci51aS5zY2hlZHVsZS5TY2hlZHVsZVNjcmVlbgppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIudWkuc2V0dXAuU2V0dXBTY3JlZW4KaW1wb3J0IGNvbS5uZDMwMC5jb250cm9sbGVyLnVpLnRoZW1lLk5EMzAwVGhlbWUKCmNsYXNzIE1haW5BY3Rpdml0eSA6IENvbXBvbmVudEFjdGl2aXR5KCkgewoKICAgIHByaXZhdGUgdmFsIG5vdGlmaWNhdGlvblBlcm1pc3Npb25MYXVuY2hlciA9CiAgICAgICAgcmVnaXN0ZXJGb3JBY3Rpdml0eVJlc3VsdChBY3Rpdml0eVJlc3VsdENvbnRyYWN0cy5SZXF1ZXN0UGVybWlzc2lvbigpKSB7IH0KCiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKQoKICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuVElSQU1JU1UpIHsKICAgICAgICAgICAgbm90aWZpY2F0aW9uUGVybWlzc2lvbkxhdW5jaGVyLmxhdW5jaChNYW5pZmVzdC5wZXJtaXNzaW9uLlBPU1RfTk9USUZJQ0FUSU9OUykKICAgICAgICB9CiAgICAgICAgcmVxdWVzdEV4YWN0QWxhcm1QZXJtaXNzaW9uSWZOZWVkZWQoKQoKICAgICAgICBzZXRDb250ZW50IHsKICAgICAgICAgICAgTkQzMDBUaGVtZSB7CiAgICAgICAgICAgICAgICBDb21wb3NpdGlvbkxvY2FsUHJvdmlkZXIoTG9jYWxMYXlvdXREaXJlY3Rpb24gcHJvdmlkZXMgTGF5b3V0RGlyZWN0aW9uLlJ0bCkgewogICAgICAgICAgICAgICAgICAgIEFwcFJvb3QoKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgZnVuIHJlcXVlc3RFeGFjdEFsYXJtUGVybWlzc2lvbklmTmVlZGVkKCkgewogICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5TKSB7CiAgICAgICAgICAgIHZhbCBhbGFybU1hbmFnZXIgPSBnZXRTeXN0ZW1TZXJ2aWNlKEFsYXJtTWFuYWdlcjo6Y2xhc3MuamF2YSkKICAgICAgICAgICAgaWYgKCFhbGFybU1hbmFnZXIuY2FuU2NoZWR1bGVFeGFjdEFsYXJtcygpKSB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoCiAgICAgICAgICAgICAgICAgICAgICAgIEludGVudChTZXR0aW5ncy5BQ1RJT05fUkVRVUVTVF9TQ0hFRFVMRV9FWEFDVF9BTEFSTSwgVXJpLnBhcnNlKCJwYWNrYWdlOiRwYWNrYWdlTmFtZSIpKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKF86IEV4Y2VwdGlvbikgeyAvKiDYqNi52LYg2KfZhNij2KzZh9iy2Kkg2YTYpyDYqtiv2LnZhSDZh9iw2Kcg2KfZhNmC2LXYryDZhdio2KfYtNix2KkgKi8gfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9Cgpwcml2YXRlIGRhdGEgY2xhc3MgQm90dG9tRGVzdCh2YWwgcm91dGU6IFN0cmluZywgdmFsIGxhYmVsOiBTdHJpbmcsIHZhbCBpY29uOiBhbmRyb2lkeC5jb21wb3NlLnVpLmdyYXBoaWNzLnZlY3Rvci5JbWFnZVZlY3RvcikKCnByaXZhdGUgdmFsIGRlc3RpbmF0aW9ucyA9IGxpc3RPZigKICAgIEJvdHRvbURlc3QoImhvbWUiLCAi2KfZhNix2KbZitiz2YrYqSIsIEljb25zLkZpbGxlZC5Ib21lKSwKICAgIEJvdHRvbURlc3QoInNjaGVkdWxlcyIsICLYp9mE2KzYr9in2YjZhCIsIEljb25zLkZpbGxlZC5TY2hlZHVsZSksCiAgICBCb3R0b21EZXN0KCJsb2dzIiwgItin2YTYs9is2YQiLCBJY29ucy5GaWxsZWQuSGlzdG9yeSksCiAgICBCb3R0b21EZXN0KCJzZXR1cCIsICLYp9mE2KXYudiv2KfYryIsIEljb25zLkZpbGxlZC5TZXR0aW5ncykKKQoKQENvbXBvc2FibGUKcHJpdmF0ZSBmdW4gQXBwUm9vdCgpIHsKICAgIHZhbCBuYXZDb250cm9sbGVyOiBOYXZIb3N0Q29udHJvbGxlciA9IHJlbWVtYmVyTmF2Q29udHJvbGxlcigpCgogICAgU2NhZmZvbGQoCiAgICAgICAgYm90dG9tQmFyID0gewogICAgICAgICAgICBOYXZpZ2F0aW9uQmFyIHsKICAgICAgICAgICAgICAgIHZhbCBiYWNrU3RhY2tFbnRyeSBieSBuYXZDb250cm9sbGVyLmN1cnJlbnRCYWNrU3RhY2tFbnRyeUFzU3RhdGUoKQogICAgICAgICAgICAgICAgdmFsIGN1cnJlbnRSb3V0ZSA9IGJhY2tTdGFja0VudHJ5Py5kZXN0aW5hdGlvbj8ucm91dGUKICAgICAgICAgICAgICAgIGRlc3RpbmF0aW9ucy5mb3JFYWNoIHsgZGVzdCAtPgogICAgICAgICAgICAgICAgICAgIE5hdmlnYXRpb25CYXJJdGVtKAogICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZCA9IGN1cnJlbnRSb3V0ZSA9PSBkZXN0LnJvdXRlLAogICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrID0gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmF2Q29udHJvbGxlci5uYXZpZ2F0ZShkZXN0LnJvdXRlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9wVXBUbyhuYXZDb250cm9sbGVyLmdyYXBoLnN0YXJ0RGVzdGluYXRpb25JZCkgeyBzYXZlU3RhdGUgPSB0cnVlIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXVuY2hTaW5nbGVUb3AgPSB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzdG9yZVN0YXRlID0gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICBpY29uID0geyBJY29uKGRlc3QuaWNvbiwgY29udGVudERlc2NyaXB0aW9uID0gZGVzdC5sYWJlbCkgfSwKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwgPSB7IFRleHQoZGVzdC5sYWJlbCkgfQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICkgeyBwYWRkaW5nIC0+CiAgICAgICAgTmF2SG9zdCgKICAgICAgICAgICAgbmF2Q29udHJvbGxlciA9IG5hdkNvbnRyb2xsZXIsCiAgICAgICAgICAgIHN0YXJ0RGVzdGluYXRpb24gPSAiaG9tZSIsCiAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIucGFkZGluZyhwYWRkaW5nKQogICAgICAgICkgewogICAgICAgICAgICBjb21wb3NhYmxlKCJob21lIikgeyBIb21lU2NyZWVuKCkgfQogICAgICAgICAgICBjb21wb3NhYmxlKCJzY2hlZHVsZXMiKSB7IFNjaGVkdWxlU2NyZWVuKCkgfQogICAgICAgICAgICBjb21wb3NhYmxlKCJsb2dzIikgeyBMb2dzU2NyZWVuKCkgfQogICAgICAgICAgICBjb21wb3NhYmxlKCJzZXR1cCIpIHsgU2V0dXBTY3JlZW4oKSB9CiAgICAgICAgfQogICAgfQp9Cg==
+package com.nd300.controller
+
+import android.Manifest
+import android.app.AlarmManager
+import android.content.Intent
+import android.net.Uri
+import android.os.Build
+import android.os.Bundle
+import android.provider.Settings
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.compose.foundation.layout.padding
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.History
+import androidx.compose.material.icons.filled.Home
+import androidx.compose.material.icons.filled.Schedule
+import androidx.compose.material.icons.filled.Settings
+import androidx.compose.material3.*
+import androidx.compose.runtime.*
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalLayoutDirection
+import androidx.compose.ui.unit.LayoutDirection
+import androidx.navigation.NavHostController
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.currentBackStackEntryAsState
+import androidx.navigation.compose.rememberNavController
+import com.nd300.controller.ui.home.HomeScreen
+import com.nd300.controller.ui.logs.LogsScreen
+import com.nd300.controller.ui.schedule.ScheduleScreen
+import com.nd300.controller.ui.setup.SetupScreen
+import com.nd300.controller.ui.theme.ND300Theme
+
+class MainActivity : ComponentActivity() {
+
+    private val notificationPermissionLauncher =
+        registerForActivityResult(ActivityResultContracts.RequestPermission()) { }
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+            notificationPermissionLauncher.launch(Manifest.permission.POST_NOTIFICATIONS)
+        }
+        requestExactAlarmPermissionIfNeeded()
+
+        setContent {
+            ND300Theme {
+                CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Rtl) {
+                    AppRoot()
+                }
+            }
+        }
+    }
+
+    private fun requestExactAlarmPermissionIfNeeded() {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
+            val alarmManager = getSystemService(AlarmManager::class.java)
+            if (!alarmManager.canScheduleExactAlarms()) {
+                try {
+                    startActivity(
+                        Intent(Settings.ACTION_REQUEST_SCHEDULE_EXACT_ALARM, Uri.parse("package:$packageName"))
+                    )
+                } catch (_: Exception) { /* بعض الأجهزة لا تدعم هذا القصد مباشرة */ }
+            }
+        }
+    }
+}
+
+private data class BottomDest(val route: String, val label: String, val icon: androidx.compose.ui.graphics.vector.ImageVector)
+
+private val destinations = listOf(
+    BottomDest("home", "الرئيسية", Icons.Filled.Home),
+    BottomDest("schedules", "الجداول", Icons.Filled.Schedule),
+    BottomDest("logs", "السجل", Icons.Filled.History),
+    BottomDest("setup", "الإعداد", Icons.Filled.Settings)
+)
+
+@Composable
+private fun AppRoot() {
+    val navController: NavHostController = rememberNavController()
+
+    Scaffold(
+        bottomBar = {
+            NavigationBar {
+                val backStackEntry by navController.currentBackStackEntryAsState()
+                val currentRoute = backStackEntry?.destination?.route
+                destinations.forEach { dest ->
+                    NavigationBarItem(
+                        selected = currentRoute == dest.route,
+                        onClick = {
+                            navController.navigate(dest.route) {
+                                popUpTo(navController.graph.startDestinationId) { saveState = true }
+                                launchSingleTop = true
+                                restoreState = true
+                            }
+                        },
+                        icon = { Icon(dest.icon, contentDescription = dest.label) },
+                        label = { Text(dest.label) }
+                    )
+                }
+            }
+        }
+    ) { padding ->
+        NavHost(
+            navController = navController,
+            startDestination = "home",
+            modifier = Modifier.padding(padding)
+        ) {
+            composable("home") { HomeScreen() }
+            composable("schedules") { ScheduleScreen() }
+            composable("logs") { LogsScreen() }
+            composable("setup") { SetupScreen() }
+        }
+    }
+}

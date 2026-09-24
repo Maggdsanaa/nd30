@@ -1,1 +1,124 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci5zY2hlZHVsZXIKCmltcG9ydCBhbmRyb2lkLmFwcC5BbGFybU1hbmFnZXIKaW1wb3J0IGFuZHJvaWQuYXBwLlBlbmRpbmdJbnRlbnQKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0CmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuSW50ZW50CmltcG9ydCBhbmRyb2lkLm9zLkJ1aWxkCmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLmRiLlNjaGVkdWxlRW50aXR5CmltcG9ydCBqYXZhLnV0aWwuQ2FsZW5kYXIKCi8qKgogKiDZitis2K/ZiNmEINiq2YbYqNmK2YfYp9iqINiv2YLZitmC2KkgKEV4YWN0IEFsYXJtcykg2YTZg9mEINis2K/ZiNmEIMOXINmD2YQg2YrZiNmFINmF2YHYudmR2YQgw5cgKNil2YrZgtin2YEv2KrYtNi62YrZhCkuCiAqINmD2YQg2KrZhtio2YrZhyDZitmP2LnZitivINis2K/ZiNmE2Kkg2YbZgdiz2Ycg2YTZhNij2LPYqNmI2Lkg2KfZhNiq2KfZhNmKINmB2YjYsSDYqtmG2YHZitiw2YcgKNix2KfYrNi5IFNjaGVkdWxlQWxhcm1SZWNlaXZlcikKICog2K3YqtmJINmK2LPYqtmF2LEg2KfZhNi52YXZhCDYsdi62YUg2KXYutmE2KfZgiDZiNin2KzZh9ipINin2YTYqti32KjZitmCINij2Ygg2KXYudin2K/YqSDYqti02LrZitmEINin2YTZh9in2KrZgSAo2LnYqNixIEJvb3RSZWNlaXZlcikuCiAqLwpvYmplY3QgQWxhcm1TY2hlZHVsZXIgewoKICAgIGNvbnN0IHZhbCBBQ1RJT05fT0ZGID0gIkFDVElPTl9ESVNBQkxFX0lOVEVSTkVUIgogICAgY29uc3QgdmFsIEFDVElPTl9PTiA9ICJBQ1RJT05fRU5BQkxFX0lOVEVSTkVUIgoKICAgIGNvbnN0IHZhbCBFWFRSQV9TQ0hFRFVMRV9JRCA9ICJleHRyYV9zY2hlZHVsZV9pZCIKICAgIGNvbnN0IHZhbCBFWFRSQV9BQ1RJT05fVFlQRSA9ICJleHRyYV9hY3Rpb25fdHlwZSIKICAgIGNvbnN0IHZhbCBFWFRSQV9EQVlfT0ZfV0VFSyA9ICJleHRyYV9kYXlfb2Zfd2VlayIKICAgIGNvbnN0IHZhbCBFWFRSQV9IT1VSID0gImV4dHJhX2hvdXIiCiAgICBjb25zdCB2YWwgRVhUUkFfTUlOVVRFID0gImV4dHJhX21pbnV0ZSIKICAgIGNvbnN0IHZhbCBFWFRSQV9TQ0hFRFVMRV9OQU1FID0gImV4dHJhX3NjaGVkdWxlX25hbWUiCgogICAgZnVuIHJlc2NoZWR1bGVBbGwoY29udGV4dDogQ29udGV4dCwgc2NoZWR1bGVzOiBMaXN0PFNjaGVkdWxlRW50aXR5PikgewogICAgICAgIGNhbmNlbEFsbChjb250ZXh0LCBzY2hlZHVsZXMpCiAgICAgICAgc2NoZWR1bGVzLmZpbHRlciB7IGl0LmlzRW5hYmxlZCB9LmZvckVhY2ggeyBzY2hlZHVsZSAtPgogICAgICAgICAgICBzY2hlZHVsZS5kYXlzU2V0KCkuZm9yRWFjaCB7IGRheU9mV2VlayAtPgogICAgICAgICAgICAgICAgc2NoZWR1bGVPbmUoY29udGV4dCwgc2NoZWR1bGUsIGRheU9mV2VlaywgQUNUSU9OX09GRiwgc2NoZWR1bGUub2ZmSG91ciwgc2NoZWR1bGUub2ZmTWludXRlKQogICAgICAgICAgICAgICAgc2NoZWR1bGVPbmUoY29udGV4dCwgc2NoZWR1bGUsIGRheU9mV2VlaywgQUNUSU9OX09OLCBzY2hlZHVsZS5vbkhvdXIsIHNjaGVkdWxlLm9uTWludXRlKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIGZ1biBzY2hlZHVsZU9uZSgKICAgICAgICBjb250ZXh0OiBDb250ZXh0LAogICAgICAgIHNjaGVkdWxlOiBTY2hlZHVsZUVudGl0eSwKICAgICAgICBkYXlPZldlZWs6IEludCwKICAgICAgICBhY3Rpb25UeXBlOiBTdHJpbmcsCiAgICAgICAgaG91cjogSW50LAogICAgICAgIG1pbnV0ZTogSW50CiAgICApIHsKICAgICAgICB2YWwgYWxhcm1NYW5hZ2VyID0gY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuQUxBUk1fU0VSVklDRSkgYXMgQWxhcm1NYW5hZ2VyCiAgICAgICAgdmFsIHRyaWdnZXJBdCA9IG5leHRUcmlnZ2VyVGltZU1pbGxpcyhkYXlPZldlZWssIGhvdXIsIG1pbnV0ZSkKCiAgICAgICAgdmFsIGludGVudCA9IGJ1aWxkSW50ZW50KGNvbnRleHQsIHNjaGVkdWxlLmlkLCBhY3Rpb25UeXBlLCBkYXlPZldlZWssIGhvdXIsIG1pbnV0ZSwgc2NoZWR1bGUubmFtZSkKICAgICAgICB2YWwgcGVuZGluZ0ludGVudCA9IFBlbmRpbmdJbnRlbnQuZ2V0QnJvYWRjYXN0KAogICAgICAgICAgICBjb250ZXh0LAogICAgICAgICAgICByZXF1ZXN0Q29kZShzY2hlZHVsZS5pZCwgZGF5T2ZXZWVrLCBhY3Rpb25UeXBlKSwKICAgICAgICAgICAgaW50ZW50LAogICAgICAgICAgICBQZW5kaW5nSW50ZW50LkZMQUdfVVBEQVRFX0NVUlJFTlQgb3IgUGVuZGluZ0ludGVudC5GTEFHX0lNTVVUQUJMRQogICAgICAgICkKCiAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLlMpIHsKICAgICAgICAgICAgaWYgKGFsYXJtTWFuYWdlci5jYW5TY2hlZHVsZUV4YWN0QWxhcm1zKCkpIHsKICAgICAgICAgICAgICAgIGFsYXJtTWFuYWdlci5zZXRFeGFjdEFuZEFsbG93V2hpbGVJZGxlKEFsYXJtTWFuYWdlci5SVENfV0FLRVVQLCB0cmlnZ2VyQXQsIHBlbmRpbmdJbnRlbnQpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBhbGFybU1hbmFnZXIuc2V0QW5kQWxsb3dXaGlsZUlkbGUoQWxhcm1NYW5hZ2VyLlJUQ19XQUtFVVAsIHRyaWdnZXJBdCwgcGVuZGluZ0ludGVudCkKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGFsYXJtTWFuYWdlci5zZXRFeGFjdEFuZEFsbG93V2hpbGVJZGxlKEFsYXJtTWFuYWdlci5SVENfV0FLRVVQLCB0cmlnZ2VyQXQsIHBlbmRpbmdJbnRlbnQpCiAgICAgICAgfQogICAgfQoKICAgIGZ1biBjYW5jZWxBbGwoY29udGV4dDogQ29udGV4dCwgc2NoZWR1bGVzOiBMaXN0PFNjaGVkdWxlRW50aXR5PikgewogICAgICAgIHZhbCBhbGFybU1hbmFnZXIgPSBjb250ZXh0LmdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5BTEFSTV9TRVJWSUNFKSBhcyBBbGFybU1hbmFnZXIKICAgICAgICBzY2hlZHVsZXMuZm9yRWFjaCB7IHNjaGVkdWxlIC0+CiAgICAgICAgICAgIGZvciAoZGF5IGluIDEuLjcpIHsKICAgICAgICAgICAgICAgIGZvciAoYWN0aW9uIGluIGxpc3RPZihBQ1RJT05fT0ZGLCBBQ1RJT05fT04pKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIGludGVudCA9IGJ1aWxkSW50ZW50KGNvbnRleHQsIHNjaGVkdWxlLmlkLCBhY3Rpb24sIGRheSwgMCwgMCwgc2NoZWR1bGUubmFtZSkKICAgICAgICAgICAgICAgICAgICB2YWwgcGVuZGluZ0ludGVudCA9IFBlbmRpbmdJbnRlbnQuZ2V0QnJvYWRjYXN0KAogICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0LAogICAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0Q29kZShzY2hlZHVsZS5pZCwgZGF5LCBhY3Rpb24pLAogICAgICAgICAgICAgICAgICAgICAgICBpbnRlbnQsCiAgICAgICAgICAgICAgICAgICAgICAgIFBlbmRpbmdJbnRlbnQuRkxBR19VUERBVEVfQ1VSUkVOVCBvciBQZW5kaW5nSW50ZW50LkZMQUdfSU1NVVRBQkxFCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIGFsYXJtTWFuYWdlci5jYW5jZWwocGVuZGluZ0ludGVudCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biBidWlsZEludGVudCgKICAgICAgICBjb250ZXh0OiBDb250ZXh0LAogICAgICAgIHNjaGVkdWxlSWQ6IExvbmcsCiAgICAgICAgYWN0aW9uVHlwZTogU3RyaW5nLAogICAgICAgIGRheU9mV2VlazogSW50LAogICAgICAgIGhvdXI6IEludCwKICAgICAgICBtaW51dGU6IEludCwKICAgICAgICBuYW1lOiBTdHJpbmcKICAgICk6IEludGVudCA9IEludGVudChjb250ZXh0LCBTY2hlZHVsZUFsYXJtUmVjZWl2ZXI6OmNsYXNzLmphdmEpLmFwcGx5IHsKICAgICAgICBwdXRFeHRyYShFWFRSQV9TQ0hFRFVMRV9JRCwgc2NoZWR1bGVJZCkKICAgICAgICBwdXRFeHRyYShFWFRSQV9BQ1RJT05fVFlQRSwgYWN0aW9uVHlwZSkKICAgICAgICBwdXRFeHRyYShFWFRSQV9EQVlfT0ZfV0VFSywgZGF5T2ZXZWVrKQogICAgICAgIHB1dEV4dHJhKEVYVFJBX0hPVVIsIGhvdXIpCiAgICAgICAgcHV0RXh0cmEoRVhUUkFfTUlOVVRFLCBtaW51dGUpCiAgICAgICAgcHV0RXh0cmEoRVhUUkFfU0NIRURVTEVfTkFNRSwgbmFtZSkKICAgIH0KCiAgICAvKiog2LHZgtmFINi32YTYqCDZgdix2YrYryDZhNmD2YQgKNis2K/ZiNmEIMOXINmK2YjZhSDDlyDZhtmI2Lkg2KPZhdixKSDZhNiq2YHYp9iv2Yog2KrYudin2LHYtiDYp9mE2YAgUGVuZGluZ0ludGVudC4gKi8KICAgIHByaXZhdGUgZnVuIHJlcXVlc3RDb2RlKHNjaGVkdWxlSWQ6IExvbmcsIGRheU9mV2VlazogSW50LCBhY3Rpb25UeXBlOiBTdHJpbmcpOiBJbnQgewogICAgICAgIHZhbCBhY3Rpb25CaXQgPSBpZiAoYWN0aW9uVHlwZSA9PSBBQ1RJT05fT0ZGKSAwIGVsc2UgMQogICAgICAgIHJldHVybiAoKHNjaGVkdWxlSWQudG9JbnQoKSBhbmQgMHhGRkZGKSAqIDEwMCkgKyAoZGF5T2ZXZWVrICogMikgKyBhY3Rpb25CaXQKICAgIH0KCiAgICAvKiog2YrYrdiz2Kgg2KPZgtix2Kgg2KrZiNmC2YrYqiDZhdiz2KrZgtio2YTZiiAoUlRDKSDZiti32KfYqNmCINin2YTZitmI2YUg2YjYp9mE2LPYp9i52Kkg2YjYp9mE2K/ZgtmK2YLYqSDYp9mE2YXYt9mE2YjYqNipLiAqLwogICAgZnVuIG5leHRUcmlnZ2VyVGltZU1pbGxpcyhkYXlPZldlZWs6IEludCwgaG91cjogSW50LCBtaW51dGU6IEludCk6IExvbmcgewogICAgICAgIHZhbCBub3cgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpCiAgICAgICAgdmFsIHRhcmdldCA9IENhbGVuZGFyLmdldEluc3RhbmNlKCkuYXBwbHkgewogICAgICAgICAgICBzZXQoQ2FsZW5kYXIuREFZX09GX1dFRUssIGRheU9mV2VlaykKICAgICAgICAgICAgc2V0KENhbGVuZGFyLkhPVVJfT0ZfREFZLCBob3VyKQogICAgICAgICAgICBzZXQoQ2FsZW5kYXIuTUlOVVRFLCBtaW51dGUpCiAgICAgICAgICAgIHNldChDYWxlbmRhci5TRUNPTkQsIDApCiAgICAgICAgICAgIHNldChDYWxlbmRhci5NSUxMSVNFQ09ORCwgMCkKICAgICAgICB9CiAgICAgICAgaWYgKHRhcmdldC50aW1lSW5NaWxsaXMgPD0gbm93LnRpbWVJbk1pbGxpcykgewogICAgICAgICAgICB0YXJnZXQuYWRkKENhbGVuZGFyLkRBWV9PRl9ZRUFSLCA3KQogICAgICAgIH0KICAgICAgICByZXR1cm4gdGFyZ2V0LnRpbWVJbk1pbGxpcwogICAgfQp9Cg==
+package com.nd300.controller.scheduler
+
+import android.app.AlarmManager
+import android.app.PendingIntent
+import android.content.Context
+import android.content.Intent
+import android.os.Build
+import com.nd300.controller.data.db.ScheduleEntity
+import java.util.Calendar
+
+/**
+ * يجدول تنبيهات دقيقة (Exact Alarms) لكل جدول × كل يوم مفعّل × (إيقاف/تشغيل).
+ * كل تنبيه يُعيد جدولة نفسه للأسبوع التالي فور تنفيذه (راجع ScheduleAlarmReceiver)
+ * حتى يستمر العمل رغم إغلاق واجهة التطبيق أو إعادة تشغيل الهاتف (عبر BootReceiver).
+ */
+object AlarmScheduler {
+
+    const val ACTION_OFF = "ACTION_DISABLE_INTERNET"
+    const val ACTION_ON = "ACTION_ENABLE_INTERNET"
+
+    const val EXTRA_SCHEDULE_ID = "extra_schedule_id"
+    const val EXTRA_ACTION_TYPE = "extra_action_type"
+    const val EXTRA_DAY_OF_WEEK = "extra_day_of_week"
+    const val EXTRA_HOUR = "extra_hour"
+    const val EXTRA_MINUTE = "extra_minute"
+    const val EXTRA_SCHEDULE_NAME = "extra_schedule_name"
+
+    fun rescheduleAll(context: Context, schedules: List<ScheduleEntity>) {
+        cancelAll(context, schedules)
+        schedules.filter { it.isEnabled }.forEach { schedule ->
+            schedule.daysSet().forEach { dayOfWeek ->
+                scheduleOne(context, schedule, dayOfWeek, ACTION_OFF, schedule.offHour, schedule.offMinute)
+                scheduleOne(context, schedule, dayOfWeek, ACTION_ON, schedule.onHour, schedule.onMinute)
+            }
+        }
+    }
+
+    fun scheduleOne(
+        context: Context,
+        schedule: ScheduleEntity,
+        dayOfWeek: Int,
+        actionType: String,
+        hour: Int,
+        minute: Int
+    ) {
+        val alarmManager = context.getSystemService(Context.ALARM_SERVICE) as AlarmManager
+        val triggerAt = nextTriggerTimeMillis(dayOfWeek, hour, minute)
+
+        val intent = buildIntent(context, schedule.id, actionType, dayOfWeek, hour, minute, schedule.name)
+        val pendingIntent = PendingIntent.getBroadcast(
+            context,
+            requestCode(schedule.id, dayOfWeek, actionType),
+            intent,
+            PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+        )
+
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
+            if (alarmManager.canScheduleExactAlarms()) {
+                alarmManager.setExactAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, triggerAt, pendingIntent)
+            } else {
+                alarmManager.setAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, triggerAt, pendingIntent)
+            }
+        } else {
+            alarmManager.setExactAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, triggerAt, pendingIntent)
+        }
+    }
+
+    fun cancelAll(context: Context, schedules: List<ScheduleEntity>) {
+        val alarmManager = context.getSystemService(Context.ALARM_SERVICE) as AlarmManager
+        schedules.forEach { schedule ->
+            for (day in 1..7) {
+                for (action in listOf(ACTION_OFF, ACTION_ON)) {
+                    val intent = buildIntent(context, schedule.id, action, day, 0, 0, schedule.name)
+                    val pendingIntent = PendingIntent.getBroadcast(
+                        context,
+                        requestCode(schedule.id, day, action),
+                        intent,
+                        PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+                    )
+                    alarmManager.cancel(pendingIntent)
+                }
+            }
+        }
+    }
+
+    private fun buildIntent(
+        context: Context,
+        scheduleId: Long,
+        actionType: String,
+        dayOfWeek: Int,
+        hour: Int,
+        minute: Int,
+        name: String
+    ): Intent = Intent(context, ScheduleAlarmReceiver::class.java).apply {
+        putExtra(EXTRA_SCHEDULE_ID, scheduleId)
+        putExtra(EXTRA_ACTION_TYPE, actionType)
+        putExtra(EXTRA_DAY_OF_WEEK, dayOfWeek)
+        putExtra(EXTRA_HOUR, hour)
+        putExtra(EXTRA_MINUTE, minute)
+        putExtra(EXTRA_SCHEDULE_NAME, name)
+    }
+
+    /** رقم طلب فريد لكل (جدول × يوم × نوع أمر) لتفادي تعارض الـ PendingIntent. */
+    private fun requestCode(scheduleId: Long, dayOfWeek: Int, actionType: String): Int {
+        val actionBit = if (actionType == ACTION_OFF) 0 else 1
+        return ((scheduleId.toInt() and 0xFFFF) * 100) + (dayOfWeek * 2) + actionBit
+    }
+
+    /** يحسب أقرب توقيت مستقبلي (RTC) يطابق اليوم والساعة والدقيقة المطلوبة. */
+    fun nextTriggerTimeMillis(dayOfWeek: Int, hour: Int, minute: Int): Long {
+        val now = Calendar.getInstance()
+        val target = Calendar.getInstance().apply {
+            set(Calendar.DAY_OF_WEEK, dayOfWeek)
+            set(Calendar.HOUR_OF_DAY, hour)
+            set(Calendar.MINUTE, minute)
+            set(Calendar.SECOND, 0)
+            set(Calendar.MILLISECOND, 0)
+        }
+        if (target.timeInMillis <= now.timeInMillis) {
+            target.add(Calendar.DAY_OF_YEAR, 7)
+        }
+        return target.timeInMillis
+    }
+}

@@ -1,1 +1,28 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLmRiCgppbXBvcnQgYW5kcm9pZHgucm9vbS5FbnRpdHkKaW1wb3J0IGFuZHJvaWR4LnJvb20uUHJpbWFyeUtleQoKLyoqCiAqINis2K/ZiNmEINiy2YXZhtmKINmI2KfYrdivOiDZiNmC2Kog2KXZitmC2KfZgSDYp9mE2KXZhtiq2LHZhtiqINmI2YjZgtiqINiq2LTYutmK2YTZh9iMINmF2Lkg2KfZhNij2YrYp9mFINin2YTZhdmB2LnZkdmE2KkuCiAqIG9mZkhvdXIvb2ZmTWludXRlINmIIG9uSG91ci9vbk1pbnV0ZSDYqNi12YrYutipIDI0INiz2KfYudipLgogKiBkYXlzOiDZhdis2YXZiNi52Kkg2YXZhiAxLi43INit2YrYqyAxPdin2YTYo9it2K8gLi4uINi32KfYqNmC2YbYp9mH2Kcg2YXYuSBDYWxlbmRhci5TVU5EQVk9MS4KICovCkBFbnRpdHkodGFibGVOYW1lID0gInNjaGVkdWxlcyIpCmRhdGEgY2xhc3MgU2NoZWR1bGVFbnRpdHkoCiAgICBAUHJpbWFyeUtleShhdXRvR2VuZXJhdGUgPSB0cnVlKSB2YWwgaWQ6IExvbmcgPSAwLAogICAgdmFsIG5hbWU6IFN0cmluZywKICAgIHZhbCBvZmZIb3VyOiBJbnQsCiAgICB2YWwgb2ZmTWludXRlOiBJbnQsCiAgICB2YWwgb25Ib3VyOiBJbnQsCiAgICB2YWwgb25NaW51dGU6IEludCwKICAgIHZhbCBkYXlzOiBTdHJpbmcsIC8vINmF2KvYp9mEOiAiMSwyLDMsNCw1LDYsNyIg2KPZitin2YUg2YXZgdi52ZHZhNipINmF2YHYtdmI2YTYqSDYqNmB2YjYp9i12YQgKENhbGVuZGFyLkRBWV9PRl9XRUVLKQogICAgdmFsIGlzRW5hYmxlZDogQm9vbGVhbiA9IHRydWUKKSB7CiAgICBmdW4gZGF5c1NldCgpOiBTZXQ8SW50PiA9CiAgICAgICAgaWYgKGRheXMuaXNCbGFuaygpKSBlbXB0eVNldCgpIGVsc2UgZGF5cy5zcGxpdCgiLCIpLm1hcE5vdE51bGwgeyBpdC50cmltKCkudG9JbnRPck51bGwoKSB9LnRvU2V0KCkKCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBmdW4gZGF5c1RvU3RyaW5nKGRheXM6IFNldDxJbnQ+KTogU3RyaW5nID0gZGF5cy5zb3J0ZWQoKS5qb2luVG9TdHJpbmcoIiwiKQogICAgfQp9Cg==
+package com.nd300.controller.data.db
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+/**
+ * جدول زمني واحد: وقت إيقاف الإنترنت ووقت تشغيله، مع الأيام المفعّلة.
+ * offHour/offMinute و onHour/onMinute بصيغة 24 ساعة.
+ * days: مجموعة من 1..7 حيث 1=الأحد ... طابقناها مع Calendar.SUNDAY=1.
+ */
+@Entity(tableName = "schedules")
+data class ScheduleEntity(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val name: String,
+    val offHour: Int,
+    val offMinute: Int,
+    val onHour: Int,
+    val onMinute: Int,
+    val days: String, // مثال: "1,2,3,4,5,6,7" أيام مفعّلة مفصولة بفواصل (Calendar.DAY_OF_WEEK)
+    val isEnabled: Boolean = true
+) {
+    fun daysSet(): Set<Int> =
+        if (days.isBlank()) emptySet() else days.split(",").mapNotNull { it.trim().toIntOrNull() }.toSet()
+
+    companion object {
+        fun daysToString(days: Set<Int>): String = days.sorted().joinToString(",")
+    }
+}

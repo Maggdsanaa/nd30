@@ -1,1 +1,102 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci51aS52aWV3bW9kZWwKCmltcG9ydCBhbmRyb2lkLmFwcC5BcHBsaWNhdGlvbgppbXBvcnQgYW5kcm9pZHgubGlmZWN5Y2xlLkFuZHJvaWRWaWV3TW9kZWwKaW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS52aWV3TW9kZWxTY29wZQppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5kYi5BcHBEYXRhYmFzZQppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5kYi5Mb2dBY3Rpb24KaW1wb3J0IGNvbS5uZDMwMC5jb250cm9sbGVyLmRhdGEuZGIuTG9nRW50aXR5CmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLmRiLkxvZ1Jlc3VsdAppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5zZWN1cml0eS5TZWN1cmVTdG9yYWdlCmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5uZXR3b3JrLlJvdXRlckNvbmZpZwppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIubmV0d29yay5Sb3V0ZXJDb250cm9sbGVyCmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5uZXR3b3JrLlJvdXRlclRlbXBsYXRlU2V0CmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5uZXR3b3JrLlRlbXBsYXRlSnNvbgppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLkRpc3BhdGNoZXJzCmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuZmxvdy5NdXRhYmxlU3RhdGVGbG93CmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuZmxvdy5TdGF0ZUZsb3cKaW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5sYXVuY2gKaW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy53aXRoQ29udGV4dAoKZGF0YSBjbGFzcyBTZXR1cFVpU3RhdGUoCiAgICB2YWwgaXA6IFN0cmluZyA9ICIxOTIuMTY4LjEuMSIsCiAgICB2YWwgcG9ydDogU3RyaW5nID0gIiIsCiAgICB2YWwgdXNlcm5hbWU6IFN0cmluZyA9ICJhZG1pbiIsCiAgICB2YWwgcGFzc3dvcmQ6IFN0cmluZyA9ICIiLAogICAgdmFsIHRlbXBsYXRlczogUm91dGVyVGVtcGxhdGVTZXQgPSBSb3V0ZXJUZW1wbGF0ZVNldCgpLAogICAgdmFsIGlzVGVzdGluZzogQm9vbGVhbiA9IGZhbHNlLAogICAgdmFsIHRlc3RSZXN1bHRNZXNzYWdlOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCB0ZXN0U3VjY2VlZGVkOiBCb29sZWFuPyA9IG51bGwKKQoKY2xhc3MgU2V0dXBWaWV3TW9kZWwoYXBwbGljYXRpb246IEFwcGxpY2F0aW9uKSA6IEFuZHJvaWRWaWV3TW9kZWwoYXBwbGljYXRpb24pIHsKCiAgICBwcml2YXRlIHZhbCBzdG9yYWdlID0gU2VjdXJlU3RvcmFnZShhcHBsaWNhdGlvbikKICAgIHByaXZhdGUgdmFsIGxvZ0RhbyA9IEFwcERhdGFiYXNlLmdldEluc3RhbmNlKGFwcGxpY2F0aW9uKS5sb2dEYW8oKQoKICAgIHByaXZhdGUgdmFsIF9zdGF0ZSA9IE11dGFibGVTdGF0ZUZsb3cobG9hZEZyb21TdG9yYWdlKCkpCiAgICB2YWwgc3RhdGU6IFN0YXRlRmxvdzxTZXR1cFVpU3RhdGU+ID0gX3N0YXRlCgogICAgcHJpdmF0ZSBmdW4gbG9hZEZyb21TdG9yYWdlKCkgPSBTZXR1cFVpU3RhdGUoCiAgICAgICAgaXAgPSBzdG9yYWdlLnJvdXRlcklwLAogICAgICAgIHBvcnQgPSBzdG9yYWdlLnJvdXRlclBvcnQsCiAgICAgICAgdXNlcm5hbWUgPSBzdG9yYWdlLnVzZXJuYW1lLAogICAgICAgIHBhc3N3b3JkID0gc3RvcmFnZS5wYXNzd29yZCwKICAgICAgICB0ZW1wbGF0ZXMgPSBUZW1wbGF0ZUpzb24uZGVjb2RlKHN0b3JhZ2UucmVxdWVzdFRlbXBsYXRlc0pzb24pCiAgICApCgogICAgZnVuIHVwZGF0ZUlwKHY6IFN0cmluZykgeyBfc3RhdGUudmFsdWUgPSBfc3RhdGUudmFsdWUuY29weShpcCA9IHYpIH0KICAgIGZ1biB1cGRhdGVQb3J0KHY6IFN0cmluZykgeyBfc3RhdGUudmFsdWUgPSBfc3RhdGUudmFsdWUuY29weShwb3J0ID0gdikgfQogICAgZnVuIHVwZGF0ZVVzZXJuYW1lKHY6IFN0cmluZykgeyBfc3RhdGUudmFsdWUgPSBfc3RhdGUudmFsdWUuY29weSh1c2VybmFtZSA9IHYpIH0KICAgIGZ1biB1cGRhdGVQYXNzd29yZCh2OiBTdHJpbmcpIHsgX3N0YXRlLnZhbHVlID0gX3N0YXRlLnZhbHVlLmNvcHkocGFzc3dvcmQgPSB2KSB9CiAgICBmdW4gdXBkYXRlVGVtcGxhdGVzKHY6IFJvdXRlclRlbXBsYXRlU2V0KSB7IF9zdGF0ZS52YWx1ZSA9IF9zdGF0ZS52YWx1ZS5jb3B5KHRlbXBsYXRlcyA9IHYpIH0KCiAgICBmdW4gc2F2ZSgpIHsKICAgICAgICB2YWwgcyA9IF9zdGF0ZS52YWx1ZQogICAgICAgIHN0b3JhZ2Uucm91dGVySXAgPSBzLmlwCiAgICAgICAgc3RvcmFnZS5yb3V0ZXJQb3J0ID0gcy5wb3J0CiAgICAgICAgc3RvcmFnZS51c2VybmFtZSA9IHMudXNlcm5hbWUKICAgICAgICBzdG9yYWdlLnBhc3N3b3JkID0gcy5wYXNzd29yZAogICAgICAgIHN0b3JhZ2UucmVxdWVzdFRlbXBsYXRlc0pzb24gPSBUZW1wbGF0ZUpzb24uZW5jb2RlKHMudGVtcGxhdGVzKQogICAgfQoKICAgIGZ1biB0ZXN0Q29ubmVjdGlvbigpIHsKICAgICAgICBzYXZlKCkKICAgICAgICB2YWwgcyA9IF9zdGF0ZS52YWx1ZQogICAgICAgIF9zdGF0ZS52YWx1ZSA9IHMuY29weShpc1Rlc3RpbmcgPSB0cnVlLCB0ZXN0UmVzdWx0TWVzc2FnZSA9IG51bGwsIHRlc3RTdWNjZWVkZWQgPSBudWxsKQoKICAgICAgICB2aWV3TW9kZWxTY29wZS5sYXVuY2ggewogICAgICAgICAgICB2YWwgY29uZmlnID0gUm91dGVyQ29uZmlnKHMuaXAsIHMucG9ydCwgcy51c2VybmFtZSwgcy5wYXNzd29yZCwgcy50ZW1wbGF0ZXMpCiAgICAgICAgICAgIHZhbCAoc3VjY2VzcywgbWVzc2FnZSkgPSB3aXRoQ29udGV4dChEaXNwYXRjaGVycy5JTykgewogICAgICAgICAgICAgICAgdmFsIGNvbnRyb2xsZXIgPSBSb3V0ZXJDb250cm9sbGVyKGNvbmZpZykKICAgICAgICAgICAgICAgIHZhbCBjb25uZWN0UmVzdWx0ID0gY29udHJvbGxlci5jb25uZWN0KCkKICAgICAgICAgICAgICAgIGlmICghY29ubmVjdFJlc3VsdC5pc1N1Y2Nlc3MpIHsKICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVyLmRpc2Nvbm5lY3QoKQogICAgICAgICAgICAgICAgICAgIHJldHVybkB3aXRoQ29udGV4dCBmYWxzZSB0byAoY29ubmVjdFJlc3VsdC5mYWlsdXJlUmVhc29uT3JOdWxsKCkgPzogItmB2LTZhCDYp9mE2KfYqti12KfZhCIpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAocy50ZW1wbGF0ZXMubG9naW4ucGF0aC5pc0JsYW5rKCkpIHsKICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVyLmRpc2Nvbm5lY3QoKQogICAgICAgICAgICAgICAgICAgIHJldHVybkB3aXRoQ29udGV4dCB0cnVlIHRvICLYqtmFINin2YTZiNi12YjZhCDYpdmE2Ykg2LnZhtmI2KfZhiDYp9mE2YXZiNiv2YUuINmE2YUg2YrYqtmFINil2LnYr9in2K8g2YLYp9mE2Kgg2KrYs9is2YrZhCDYp9mE2K/YrtmI2YQg2KjYudivIOKAlCDYo9i22YHZhyDZhNin2K7Yqtio2KfYsSDYp9mE2YXYtdin2K/ZgtipINin2YTZg9in2YXZhNipLiIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHZhbCBsb2dpblJlc3VsdCA9IGNvbnRyb2xsZXIubG9naW4oKQogICAgICAgICAgICAgICAgY29udHJvbGxlci5kaXNjb25uZWN0KCkKICAgICAgICAgICAgICAgIGxvZ2luUmVzdWx0LmlzU3VjY2VzcyB0byAobG9naW5SZXN1bHQuZmFpbHVyZVJlYXNvbk9yTnVsbCgpID86ICLYqtmFINiq2LPYrNmK2YQg2KfZhNiv2K7ZiNmEINio2YbYrNin2K0iKQogICAgICAgICAgICB9CgogICAgICAgICAgICBsb2dEYW8uaW5zZXJ0KAogICAgICAgICAgICAgICAgTG9nRW50aXR5KAogICAgICAgICAgICAgICAgICAgIHRpbWVzdGFtcEVwb2NoTWlsbGlzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCksCiAgICAgICAgICAgICAgICAgICAgYWN0aW9uID0gTG9nQWN0aW9uLlRFU1RfQ09OTkVDVElPTiwKICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBpZiAoc3VjY2VzcykgTG9nUmVzdWx0LlNVQ0NFU1MgZWxzZSBMb2dSZXN1bHQuRkFJTFVSRSwKICAgICAgICAgICAgICAgICAgICBmYWlsdXJlUmVhc29uID0gaWYgKHN1Y2Nlc3MpIG51bGwgZWxzZSBtZXNzYWdlCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIF9zdGF0ZS52YWx1ZSA9IF9zdGF0ZS52YWx1ZS5jb3B5KAogICAgICAgICAgICAgICAgaXNUZXN0aW5nID0gZmFsc2UsCiAgICAgICAgICAgICAgICB0ZXN0U3VjY2VlZGVkID0gc3VjY2VzcywKICAgICAgICAgICAgICAgIHRlc3RSZXN1bHRNZXNzYWdlID0gbWVzc2FnZQogICAgICAgICAgICApCiAgICAgICAgfQogICAgfQp9Cg==
+package com.nd300.controller.ui.viewmodel
+
+import android.app.Application
+import androidx.lifecycle.AndroidViewModel
+import androidx.lifecycle.viewModelScope
+import com.nd300.controller.data.db.AppDatabase
+import com.nd300.controller.data.db.LogAction
+import com.nd300.controller.data.db.LogEntity
+import com.nd300.controller.data.db.LogResult
+import com.nd300.controller.data.security.SecureStorage
+import com.nd300.controller.network.RouterConfig
+import com.nd300.controller.network.RouterController
+import com.nd300.controller.network.RouterTemplateSet
+import com.nd300.controller.network.TemplateJson
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+
+data class SetupUiState(
+    val ip: String = "192.168.1.1",
+    val port: String = "",
+    val username: String = "admin",
+    val password: String = "",
+    val templates: RouterTemplateSet = RouterTemplateSet(),
+    val isTesting: Boolean = false,
+    val testResultMessage: String? = null,
+    val testSucceeded: Boolean? = null
+)
+
+class SetupViewModel(application: Application) : AndroidViewModel(application) {
+
+    private val storage = SecureStorage(application)
+    private val logDao = AppDatabase.getInstance(application).logDao()
+
+    private val _state = MutableStateFlow(loadFromStorage())
+    val state: StateFlow<SetupUiState> = _state
+
+    private fun loadFromStorage() = SetupUiState(
+        ip = storage.routerIp,
+        port = storage.routerPort,
+        username = storage.username,
+        password = storage.password,
+        templates = TemplateJson.decode(storage.requestTemplatesJson)
+    )
+
+    fun updateIp(v: String) { _state.value = _state.value.copy(ip = v) }
+    fun updatePort(v: String) { _state.value = _state.value.copy(port = v) }
+    fun updateUsername(v: String) { _state.value = _state.value.copy(username = v) }
+    fun updatePassword(v: String) { _state.value = _state.value.copy(password = v) }
+    fun updateTemplates(v: RouterTemplateSet) { _state.value = _state.value.copy(templates = v) }
+
+    fun save() {
+        val s = _state.value
+        storage.routerIp = s.ip
+        storage.routerPort = s.port
+        storage.username = s.username
+        storage.password = s.password
+        storage.requestTemplatesJson = TemplateJson.encode(s.templates)
+    }
+
+    fun testConnection() {
+        save()
+        val s = _state.value
+        _state.value = s.copy(isTesting = true, testResultMessage = null, testSucceeded = null)
+
+        viewModelScope.launch {
+            val config = RouterConfig(s.ip, s.port, s.username, s.password, s.templates)
+            val (success, message) = withContext(Dispatchers.IO) {
+                val controller = RouterController(config)
+                val connectResult = controller.connect()
+                if (!connectResult.isSuccess) {
+                    controller.disconnect()
+                    return@withContext false to (connectResult.failureReasonOrNull() ?: "فشل الاتصال")
+                }
+                if (s.templates.login.path.isBlank()) {
+                    controller.disconnect()
+                    return@withContext true to "تم الوصول إلى عنوان المودم. لم يتم إعداد قالب تسجيل الدخول بعد — أضفه لاختبار المصادقة الكاملة."
+                }
+                val loginResult = controller.login()
+                controller.disconnect()
+                loginResult.isSuccess to (loginResult.failureReasonOrNull() ?: "تم تسجيل الدخول بنجاح")
+            }
+
+            logDao.insert(
+                LogEntity(
+                    timestampEpochMillis = System.currentTimeMillis(),
+                    action = LogAction.TEST_CONNECTION,
+                    result = if (success) LogResult.SUCCESS else LogResult.FAILURE,
+                    failureReason = if (success) null else message
+                )
+            )
+
+            _state.value = _state.value.copy(
+                isTesting = false,
+                testSucceeded = success,
+                testResultMessage = message
+            )
+        }
+    }
+}

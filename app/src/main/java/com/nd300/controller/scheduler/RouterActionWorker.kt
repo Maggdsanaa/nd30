@@ -1,1 +1,88 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci5zY2hlZHVsZXIKCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQ29udGV4dAppbXBvcnQgYW5kcm9pZHgud29yay5Db3JvdXRpbmVXb3JrZXIKaW1wb3J0IGFuZHJvaWR4LndvcmsuV29ya2VyUGFyYW1ldGVycwppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5kYi5BcHBEYXRhYmFzZQppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5kYi5Mb2dBY3Rpb24KaW1wb3J0IGNvbS5uZDMwMC5jb250cm9sbGVyLmRhdGEuZGIuTG9nRW50aXR5CmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLmRiLkxvZ1Jlc3VsdAppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5zZWN1cml0eS5TZWN1cmVTdG9yYWdlCmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5uZXR3b3JrLlJvdXRlckFjdGlvblJlc3VsdAppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIubmV0d29yay5Sb3V0ZXJDb25maWcKaW1wb3J0IGNvbS5uZDMwMC5jb250cm9sbGVyLm5ldHdvcmsuUm91dGVyQ29udHJvbGxlcgppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIubmV0d29yay5UZW1wbGF0ZUpzb24KaW1wb3J0IGNvbS5uZDMwMC5jb250cm9sbGVyLm5vdGlmaWNhdGlvbnMuTm90aWZpY2F0aW9uSGVscGVyCgovKioKICog2YrZhtmB2ZHYsCDYo9mF2LHYp9mLINmI2KfYrdiv2KfZiyDZgdi52YTZitin2Ysg2LnZhNmJINin2YTZhdmI2K/ZhSAo2KXZitmC2KfZgS/Yqti02LrZitmEINin2YTYpdmG2KrYsdmG2Kop2Iwg2YXYuSDYpdi52KfYr9ipINmF2K3Yp9mI2YTYqSDYqtmE2YLYp9im2YrYqQogKiAo2LPZitin2LPYqSBCYWNrb2ZmINmF2YYgV29ya01hbmFnZXIpINi52YbYryDZgdi02YQg2KfZhNi02KjZg9ipINij2Ygg2KrYs9is2YrZhCDYp9mE2K/YrtmI2YTYjCDYq9mFINmK2LPYrNmR2YQg2KfZhNmG2KrZitis2KkKICog2YHZiiDZgtin2LnYr9ipINin2YTYqNmK2KfZhtin2Kog2YjZitmP2LHYs9mEINil2LTYudin2LHYp9mLINmE2YTZhdiz2KrYrtiv2YUuCiAqLwpjbGFzcyBSb3V0ZXJBY3Rpb25Xb3JrZXIoCiAgICBjb250ZXh0OiBDb250ZXh0LAogICAgcGFyYW1zOiBXb3JrZXJQYXJhbWV0ZXJzCikgOiBDb3JvdXRpbmVXb3JrZXIoY29udGV4dCwgcGFyYW1zKSB7CgogICAgb3ZlcnJpZGUgc3VzcGVuZCBmdW4gZG9Xb3JrKCk6IFJlc3VsdCB7CiAgICAgICAgdmFsIGFjdGlvblR5cGUgPSBpbnB1dERhdGEuZ2V0U3RyaW5nKEtFWV9BQ1RJT05fVFlQRSkgPzogcmV0dXJuIFJlc3VsdC5mYWlsdXJlKCkKICAgICAgICB2YWwgc2NoZWR1bGVOYW1lID0gaW5wdXREYXRhLmdldFN0cmluZyhLRVlfU0NIRURVTEVfTkFNRSkKCiAgICAgICAgdmFsIHNlY3VyZVN0b3JhZ2UgPSBTZWN1cmVTdG9yYWdlKGFwcGxpY2F0aW9uQ29udGV4dCkKICAgICAgICB2YWwgdGVtcGxhdGVzID0gVGVtcGxhdGVKc29uLmRlY29kZShzZWN1cmVTdG9yYWdlLnJlcXVlc3RUZW1wbGF0ZXNKc29uKQogICAgICAgIHZhbCBjb25maWcgPSBSb3V0ZXJDb25maWcoCiAgICAgICAgICAgIGlwID0gc2VjdXJlU3RvcmFnZS5yb3V0ZXJJcCwKICAgICAgICAgICAgcG9ydCA9IHNlY3VyZVN0b3JhZ2Uucm91dGVyUG9ydCwKICAgICAgICAgICAgdXNlcm5hbWUgPSBzZWN1cmVTdG9yYWdlLnVzZXJuYW1lLAogICAgICAgICAgICBwYXNzd29yZCA9IHNlY3VyZVN0b3JhZ2UucGFzc3dvcmQsCiAgICAgICAgICAgIHRlbXBsYXRlcyA9IHRlbXBsYXRlcwogICAgICAgICkKICAgICAgICB2YWwgY29udHJvbGxlciA9IFJvdXRlckNvbnRyb2xsZXIoY29uZmlnKQoKICAgICAgICB2YWwgcmVzdWx0ID0gd2hlbiAoYWN0aW9uVHlwZSkgewogICAgICAgICAgICBBbGFybVNjaGVkdWxlci5BQ1RJT05fT0ZGIC0+IGNvbnRyb2xsZXIuZGlzYWJsZUludGVybmV0KCkKICAgICAgICAgICAgQWxhcm1TY2hlZHVsZXIuQUNUSU9OX09OIC0+IGNvbnRyb2xsZXIuZW5hYmxlSW50ZXJuZXQoKQogICAgICAgICAgICBlbHNlIC0+IFJvdXRlckFjdGlvblJlc3VsdC5Ob3RDb25maWd1cmVkKCLYutmK2LEg2YXYudix2YjZgSIpCiAgICAgICAgfQogICAgICAgIGNvbnRyb2xsZXIuZGlzY29ubmVjdCgpCgogICAgICAgIHZhbCBkYiA9IEFwcERhdGFiYXNlLmdldEluc3RhbmNlKGFwcGxpY2F0aW9uQ29udGV4dCkKICAgICAgICB2YWwgbG9nQWN0aW9uID0gaWYgKGFjdGlvblR5cGUgPT0gQWxhcm1TY2hlZHVsZXIuQUNUSU9OX09GRikgTG9nQWN0aW9uLkRJU0FCTEVfSU5URVJORVQgZWxzZSBMb2dBY3Rpb24uRU5BQkxFX0lOVEVSTkVUCiAgICAgICAgdmFsIGFjdGlvbkxhYmVsID0gaWYgKGFjdGlvblR5cGUgPT0gQWxhcm1TY2hlZHVsZXIuQUNUSU9OX09GRikgItil2YrZgtin2YEg2KfZhNil2YbYqtix2YbYqiIgZWxzZSAi2KrYtNi62YrZhCDYp9mE2KXZhtiq2LHZhtiqIgoKICAgICAgICBkYi5sb2dEYW8oKS5pbnNlcnQoCiAgICAgICAgICAgIExvZ0VudGl0eSgKICAgICAgICAgICAgICAgIHRpbWVzdGFtcEVwb2NoTWlsbGlzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCksCiAgICAgICAgICAgICAgICBhY3Rpb24gPSBsb2dBY3Rpb24sCiAgICAgICAgICAgICAgICByZXN1bHQgPSBpZiAocmVzdWx0LmlzU3VjY2VzcykgTG9nUmVzdWx0LlNVQ0NFU1MgZWxzZSBMb2dSZXN1bHQuRkFJTFVSRSwKICAgICAgICAgICAgICAgIGZhaWx1cmVSZWFzb24gPSByZXN1bHQuZmFpbHVyZVJlYXNvbk9yTnVsbCgpLAogICAgICAgICAgICAgICAgdHJpZ2dlcmVkQnlTY2hlZHVsZSA9IHNjaGVkdWxlTmFtZQogICAgICAgICAgICApCiAgICAgICAgKQoKICAgICAgICByZXR1cm4gaWYgKHJlc3VsdC5pc1N1Y2Nlc3MpIHsKICAgICAgICAgICAgTm90aWZpY2F0aW9uSGVscGVyLm5vdGlmeVJlc3VsdCgKICAgICAgICAgICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dCwgdHJ1ZSwKICAgICAgICAgICAgICAgICLYqtmFINiq2YbZgdmK2LAgXCIkYWN0aW9uTGFiZWxcIiDYqNmG2KzYp9itIiArIChzY2hlZHVsZU5hbWU/LmxldCB7ICIg4oCUINis2K/ZiNmEOiAkaXQiIH0gPzogIiIpCiAgICAgICAgICAgICkKICAgICAgICAgICAgUmVzdWx0LnN1Y2Nlc3MoKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHZhbCBhdHRlbXB0ID0gcnVuQXR0ZW1wdENvdW50CiAgICAgICAgICAgIGlmIChhdHRlbXB0IDwgTUFYX1JFVFJJRVMpIHsKICAgICAgICAgICAgICAgIFJlc3VsdC5yZXRyeSgpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBOb3RpZmljYXRpb25IZWxwZXIubm90aWZ5UmVzdWx0KAogICAgICAgICAgICAgICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dCwgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgItmB2LTZhCDYqtmG2YHZitiwIFwiJGFjdGlvbkxhYmVsXCIg2KjYudivICRNQVhfUkVUUklFUyDZhdit2KfZiNmE2KfYqiDigJQgJHtyZXN1bHQuZmFpbHVyZVJlYXNvbk9yTnVsbCgpfSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIFJlc3VsdC5mYWlsdXJlKCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBjb25zdCB2YWwgS0VZX0FDVElPTl9UWVBFID0gImFjdGlvbl90eXBlIgogICAgICAgIGNvbnN0IHZhbCBLRVlfU0NIRURVTEVfTkFNRSA9ICJzY2hlZHVsZV9uYW1lIgogICAgICAgIGNvbnN0IHZhbCBNQVhfUkVUUklFUyA9IDMKICAgIH0KfQo=
+package com.nd300.controller.scheduler
+
+import android.content.Context
+import androidx.work.CoroutineWorker
+import androidx.work.WorkerParameters
+import com.nd300.controller.data.db.AppDatabase
+import com.nd300.controller.data.db.LogAction
+import com.nd300.controller.data.db.LogEntity
+import com.nd300.controller.data.db.LogResult
+import com.nd300.controller.data.security.SecureStorage
+import com.nd300.controller.network.RouterActionResult
+import com.nd300.controller.network.RouterConfig
+import com.nd300.controller.network.RouterController
+import com.nd300.controller.network.TemplateJson
+import com.nd300.controller.notifications.NotificationHelper
+
+/**
+ * ينفّذ أمراً واحداً فعلياً على المودم (إيقاف/تشغيل الإنترنت)، مع إعادة محاولة تلقائية
+ * (سياسة Backoff من WorkManager) عند فشل الشبكة أو تسجيل الدخول، ثم يسجّل النتيجة
+ * في قاعدة البيانات ويُرسل إشعاراً للمستخدم.
+ */
+class RouterActionWorker(
+    context: Context,
+    params: WorkerParameters
+) : CoroutineWorker(context, params) {
+
+    override suspend fun doWork(): Result {
+        val actionType = inputData.getString(KEY_ACTION_TYPE) ?: return Result.failure()
+        val scheduleName = inputData.getString(KEY_SCHEDULE_NAME)
+
+        val secureStorage = SecureStorage(applicationContext)
+        val templates = TemplateJson.decode(secureStorage.requestTemplatesJson)
+        val config = RouterConfig(
+            ip = secureStorage.routerIp,
+            port = secureStorage.routerPort,
+            username = secureStorage.username,
+            password = secureStorage.password,
+            templates = templates
+        )
+        val controller = RouterController(config)
+
+        val result = when (actionType) {
+            AlarmScheduler.ACTION_OFF -> controller.disableInternet()
+            AlarmScheduler.ACTION_ON -> controller.enableInternet()
+            else -> RouterActionResult.NotConfigured("غير معروف")
+        }
+        controller.disconnect()
+
+        val db = AppDatabase.getInstance(applicationContext)
+        val logAction = if (actionType == AlarmScheduler.ACTION_OFF) LogAction.DISABLE_INTERNET else LogAction.ENABLE_INTERNET
+        val actionLabel = if (actionType == AlarmScheduler.ACTION_OFF) "إيقاف الإنترنت" else "تشغيل الإنترنت"
+
+        db.logDao().insert(
+            LogEntity(
+                timestampEpochMillis = System.currentTimeMillis(),
+                action = logAction,
+                result = if (result.isSuccess) LogResult.SUCCESS else LogResult.FAILURE,
+                failureReason = result.failureReasonOrNull(),
+                triggeredBySchedule = scheduleName
+            )
+        )
+
+        return if (result.isSuccess) {
+            NotificationHelper.notifyResult(
+                applicationContext, true,
+                "تم تنفيذ \"$actionLabel\" بنجاح" + (scheduleName?.let { " — جدول: $it" } ?: "")
+            )
+            Result.success()
+        } else {
+            val attempt = runAttemptCount
+            if (attempt < MAX_RETRIES) {
+                Result.retry()
+            } else {
+                NotificationHelper.notifyResult(
+                    applicationContext, false,
+                    "فشل تنفيذ \"$actionLabel\" بعد $MAX_RETRIES محاولات — ${result.failureReasonOrNull()}"
+                )
+                Result.failure()
+            }
+        }
+    }
+
+    companion object {
+        const val KEY_ACTION_TYPE = "action_type"
+        const val KEY_SCHEDULE_NAME = "schedule_name"
+        const val MAX_RETRIES = 3
+    }
+}

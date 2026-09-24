@@ -1,1 +1,77 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci51aS5sb2dzCgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC4qCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF6eS5MYXp5Q29sdW1uCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF6eS5pdGVtcwppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuKgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLioKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkuQWxpZ25tZW50CmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLk1vZGlmaWVyCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLmdyYXBoaWNzLkNvbG9yCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLnVuaXQuZHAKaW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS52aWV3bW9kZWwuY29tcG9zZS52aWV3TW9kZWwKaW1wb3J0IGNvbS5uZDMwMC5jb250cm9sbGVyLmRhdGEuZGIuTG9nQWN0aW9uCmltcG9ydCBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLmRiLkxvZ0VudGl0eQppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5kYi5Mb2dSZXN1bHQKaW1wb3J0IGNvbS5uZDMwMC5jb250cm9sbGVyLnVpLnZpZXdtb2RlbC5Mb2dzVmlld01vZGVsCmltcG9ydCBqYXZhLnRleHQuU2ltcGxlRGF0ZUZvcm1hdAppbXBvcnQgamF2YS51dGlsLkRhdGUKaW1wb3J0IGphdmEudXRpbC5Mb2NhbGUKCkBDb21wb3NhYmxlCmZ1biBMb2dzU2NyZWVuKCkgewogICAgdmFsIHZpZXdNb2RlbDogTG9nc1ZpZXdNb2RlbCA9IHZpZXdNb2RlbCgpCiAgICB2YWwgbG9ncyBieSB2aWV3TW9kZWwubG9ncy5jb2xsZWN0QXNTdGF0ZSgpCgogICAgaWYgKGxvZ3MuaXNFbXB0eSgpKSB7CiAgICAgICAgQm94KE1vZGlmaWVyLmZpbGxNYXhTaXplKCksIGNvbnRlbnRBbGlnbm1lbnQgPSBBbGlnbm1lbnQuQ2VudGVyKSB7CiAgICAgICAgICAgIFRleHQoItmE2Kcg2KrZiNis2K8g2LnZhdmE2YrYp9iqINmF2LPYrNmE2Kkg2KjYudivIikKICAgICAgICB9CiAgICAgICAgcmV0dXJuCiAgICB9CgogICAgTGF6eUNvbHVtbigKICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhTaXplKCkucGFkZGluZygxMi5kcCksCiAgICAgICAgdmVydGljYWxBcnJhbmdlbWVudCA9IEFycmFuZ2VtZW50LnNwYWNlZEJ5KDguZHApCiAgICApIHsKICAgICAgICBpdGVtcyhsb2dzKSB7IGxvZyAtPiBMb2dSb3cobG9nKSB9CiAgICB9Cn0KCnByaXZhdGUgdmFsIGZvcm1hdHRlciA9IFNpbXBsZURhdGVGb3JtYXQoImRkL01NL3l5eXkgSEg6bW0iLCBMb2NhbGUoImFyIikpCgpAQ29tcG9zYWJsZQpwcml2YXRlIGZ1biBMb2dSb3cobG9nOiBMb2dFbnRpdHkpIHsKICAgIHZhbCBhY3Rpb25MYWJlbCA9IHdoZW4gKGxvZy5hY3Rpb24pIHsKICAgICAgICBMb2dBY3Rpb24uRElTQUJMRV9JTlRFUk5FVCAtPiAi2KXZitmC2KfZgSDYp9mE2KXZhtiq2LHZhtiqIgogICAgICAgIExvZ0FjdGlvbi5FTkFCTEVfSU5URVJORVQgLT4gItiq2LTYutmK2YQg2KfZhNil2YbYqtix2YbYqiIKICAgICAgICBMb2dBY3Rpb24uUkVCT09UIC0+ICLYpdi52KfYr9ipINiq2LTYutmK2YQg2KfZhNmF2YjYr9mFIgogICAgICAgIExvZ0FjdGlvbi5URVNUX0NPTk5FQ1RJT04gLT4gItin2K7Yqtio2KfYsSDYp9mE2KfYqti12KfZhCIKICAgIH0KICAgIHZhbCBpc1N1Y2Nlc3MgPSBsb2cucmVzdWx0ID09IExvZ1Jlc3VsdC5TVUNDRVNTCgogICAgQ2FyZChtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpKSB7CiAgICAgICAgQ29sdW1uKE1vZGlmaWVyLnBhZGRpbmcoMTIuZHApKSB7CiAgICAgICAgICAgIFJvdygKICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCksCiAgICAgICAgICAgICAgICBob3Jpem9udGFsQXJyYW5nZW1lbnQgPSBBcnJhbmdlbWVudC5TcGFjZUJldHdlZW4KICAgICAgICAgICAgKSB7CiAgICAgICAgICAgICAgICBUZXh0KGZvcm1hdHRlci5mb3JtYXQoRGF0ZShsb2cudGltZXN0YW1wRXBvY2hNaWxsaXMpKSwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuYm9keVNtYWxsKQogICAgICAgICAgICAgICAgVGV4dCgKICAgICAgICAgICAgICAgICAgICBpZiAoaXNTdWNjZXNzKSAi2YbYrNitIiBlbHNlICLZgdi02YQiLAogICAgICAgICAgICAgICAgICAgIGNvbG9yID0gaWYgKGlzU3VjY2VzcykgQ29sb3IoMHhGRjJFN0QzMikgZWxzZSBDb2xvcigweEZGQzYyODI4KSwKICAgICAgICAgICAgICAgICAgICBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5sYWJlbExhcmdlCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg0LmRwKSkKICAgICAgICAgICAgVGV4dChhY3Rpb25MYWJlbCwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkudGl0bGVTbWFsbCkKICAgICAgICAgICAgbG9nLnRyaWdnZXJlZEJ5U2NoZWR1bGU/LmxldCB7CiAgICAgICAgICAgICAgICBUZXh0KCLYrNiv2YjZhDogJGl0Iiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuYm9keVNtYWxsKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICghaXNTdWNjZXNzICYmIGxvZy5mYWlsdXJlUmVhc29uICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoNC5kcCkpCiAgICAgICAgICAgICAgICBUZXh0KCLYp9mE2LPYqNioOiAke2xvZy5mYWlsdXJlUmVhc29ufSIsIHN0eWxlID0gTWF0ZXJpYWxUaGVtZS50eXBvZ3JhcGh5LmJvZHlTbWFsbCwgY29sb3IgPSBDb2xvcigweEZGQzYyODI4KSkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=
+package com.nd300.controller.ui.logs
+
+import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.material3.*
+import androidx.compose.runtime.*
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.unit.dp
+import androidx.lifecycle.viewmodel.compose.viewModel
+import com.nd300.controller.data.db.LogAction
+import com.nd300.controller.data.db.LogEntity
+import com.nd300.controller.data.db.LogResult
+import com.nd300.controller.ui.viewmodel.LogsViewModel
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
+
+@Composable
+fun LogsScreen() {
+    val viewModel: LogsViewModel = viewModel()
+    val logs by viewModel.logs.collectAsState()
+
+    if (logs.isEmpty()) {
+        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+            Text("لا توجد عمليات مسجلة بعد")
+        }
+        return
+    }
+
+    LazyColumn(
+        modifier = Modifier.fillMaxSize().padding(12.dp),
+        verticalArrangement = Arrangement.spacedBy(8.dp)
+    ) {
+        items(logs) { log -> LogRow(log) }
+    }
+}
+
+private val formatter = SimpleDateFormat("dd/MM/yyyy HH:mm", Locale("ar"))
+
+@Composable
+private fun LogRow(log: LogEntity) {
+    val actionLabel = when (log.action) {
+        LogAction.DISABLE_INTERNET -> "إيقاف الإنترنت"
+        LogAction.ENABLE_INTERNET -> "تشغيل الإنترنت"
+        LogAction.REBOOT -> "إعادة تشغيل المودم"
+        LogAction.TEST_CONNECTION -> "اختبار الاتصال"
+    }
+    val isSuccess = log.result == LogResult.SUCCESS
+
+    Card(modifier = Modifier.fillMaxWidth()) {
+        Column(Modifier.padding(12.dp)) {
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                horizontalArrangement = Arrangement.SpaceBetween
+            ) {
+                Text(formatter.format(Date(log.timestampEpochMillis)), style = MaterialTheme.typography.bodySmall)
+                Text(
+                    if (isSuccess) "نجح" else "فشل",
+                    color = if (isSuccess) Color(0xFF2E7D32) else Color(0xFFC62828),
+                    style = MaterialTheme.typography.labelLarge
+                )
+            }
+            Spacer(Modifier.height(4.dp))
+            Text(actionLabel, style = MaterialTheme.typography.titleSmall)
+            log.triggeredBySchedule?.let {
+                Text("جدول: $it", style = MaterialTheme.typography.bodySmall)
+            }
+            if (!isSuccess && log.failureReason != null) {
+                Spacer(Modifier.height(4.dp))
+                Text("السبب: ${log.failureReason}", style = MaterialTheme.typography.bodySmall, color = Color(0xFFC62828))
+            }
+        }
+    }
+}

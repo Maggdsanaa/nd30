@@ -1,1 +1,18 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLmRiCgppbXBvcnQgYW5kcm9pZHgucm9vbS5EYW8KaW1wb3J0IGFuZHJvaWR4LnJvb20uSW5zZXJ0CmltcG9ydCBhbmRyb2lkeC5yb29tLlF1ZXJ5CmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuZmxvdy5GbG93CgpARGFvCmludGVyZmFjZSBMb2dEYW8gewogICAgQFF1ZXJ5KCJTRUxFQ1QgKiBGUk9NIG9wZXJhdGlvbl9sb2dzIE9SREVSIEJZIHRpbWVzdGFtcEVwb2NoTWlsbGlzIERFU0MgTElNSVQgNTAwIikKICAgIGZ1biBvYnNlcnZlUmVjZW50KCk6IEZsb3c8TGlzdDxMb2dFbnRpdHk+PgoKICAgIEBJbnNlcnQKICAgIHN1c3BlbmQgZnVuIGluc2VydChsb2c6IExvZ0VudGl0eSk6IExvbmcKCiAgICBAUXVlcnkoIkRFTEVURSBGUk9NIG9wZXJhdGlvbl9sb2dzIikKICAgIHN1c3BlbmQgZnVuIGNsZWFyKCkKfQo=
+package com.nd300.controller.data.db
+
+import androidx.room.Dao
+import androidx.room.Insert
+import androidx.room.Query
+import kotlinx.coroutines.flow.Flow
+
+@Dao
+interface LogDao {
+    @Query("SELECT * FROM operation_logs ORDER BY timestampEpochMillis DESC LIMIT 500")
+    fun observeRecent(): Flow<List<LogEntity>>
+
+    @Insert
+    suspend fun insert(log: LogEntity): Long
+
+    @Query("DELETE FROM operation_logs")
+    suspend fun clear()
+}

@@ -1,1 +1,4 @@
-IyBLZWVwIFJvb20gZW50aXRpZXMgYW5kIE9rSHR0cAota2VlcCBjbGFzcyBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLmRiLioqIHsgKjsgfQotZG9udHdhcm4gb2todHRwMy4qKgotZG9udHdhcm4gb2tpby4qKgo=
+# Keep Room entities and OkHttp
+-keep class com.nd300.controller.data.db.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**

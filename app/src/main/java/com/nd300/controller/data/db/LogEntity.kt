@@ -1,1 +1,20 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci5kYXRhLmRiCgppbXBvcnQgYW5kcm9pZHgucm9vbS5FbnRpdHkKaW1wb3J0IGFuZHJvaWR4LnJvb20uUHJpbWFyeUtleQoKZW51bSBjbGFzcyBMb2dBY3Rpb24gewogICAgRElTQUJMRV9JTlRFUk5FVCwgRU5BQkxFX0lOVEVSTkVULCBSRUJPT1QsIFRFU1RfQ09OTkVDVElPTgp9CgplbnVtIGNsYXNzIExvZ1Jlc3VsdCB7IFNVQ0NFU1MsIEZBSUxVUkUgfQoKQEVudGl0eSh0YWJsZU5hbWUgPSAib3BlcmF0aW9uX2xvZ3MiKQpkYXRhIGNsYXNzIExvZ0VudGl0eSgKICAgIEBQcmltYXJ5S2V5KGF1dG9HZW5lcmF0ZSA9IHRydWUpIHZhbCBpZDogTG9uZyA9IDAsCiAgICB2YWwgdGltZXN0YW1wRXBvY2hNaWxsaXM6IExvbmcsCiAgICB2YWwgYWN0aW9uOiBMb2dBY3Rpb24sCiAgICB2YWwgcmVzdWx0OiBMb2dSZXN1bHQsCiAgICB2YWwgZmFpbHVyZVJlYXNvbjogU3RyaW5nPyA9IG51bGwsCiAgICB2YWwgdHJpZ2dlcmVkQnlTY2hlZHVsZTogU3RyaW5nPyA9IG51bGwgLy8g2KfYs9mFINin2YTYrNiv2YjZhCDYpdmGINmD2KfZhiDYp9mE2KrZhtmB2YrYsCDYqtmE2YLYp9im2YrYp9mL2Iwg2KPZiCBudWxsINmE2YTYqtmG2YHZitiwINin2YTZitiv2YjZigopCg==
+package com.nd300.controller.data.db
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+enum class LogAction {
+    DISABLE_INTERNET, ENABLE_INTERNET, REBOOT, TEST_CONNECTION
+}
+
+enum class LogResult { SUCCESS, FAILURE }
+
+@Entity(tableName = "operation_logs")
+data class LogEntity(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val timestampEpochMillis: Long,
+    val action: LogAction,
+    val result: LogResult,
+    val failureReason: String? = null,
+    val triggeredBySchedule: String? = null // اسم الجدول إن كان التنفيذ تلقائياً، أو null للتنفيذ اليدوي
+)

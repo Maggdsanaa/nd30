@@ -1,1 +1,201 @@
-cGFja2FnZSBjb20ubmQzMDAuY29udHJvbGxlci51aS5zY2hlZHVsZQoKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuKgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxhenkuTGF6eUNvbHVtbgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxhenkuaXRlbXMKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwuaWNvbnMuSWNvbnMKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwuaWNvbnMuZmlsbGVkLkFkZAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbC5pY29ucy5maWxsZWQuRGVsZXRlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy4qCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUuKgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS5BbGlnbm1lbnQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkuTW9kaWZpZXIKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkudW5pdC5kcAppbXBvcnQgYW5kcm9pZHgubGlmZWN5Y2xlLnZpZXdtb2RlbC5jb21wb3NlLnZpZXdNb2RlbAppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIuZGF0YS5kYi5TY2hlZHVsZUVudGl0eQppbXBvcnQgY29tLm5kMzAwLmNvbnRyb2xsZXIudWkudmlld21vZGVsLlNjaGVkdWxlVmlld01vZGVsCmltcG9ydCBqYXZhLnV0aWwuQ2FsZW5kYXIKCnByaXZhdGUgdmFsIGRheUxhYmVscyA9IGxpc3RPZigKICAgIENhbGVuZGFyLlNBVFVSREFZIHRvICLYp9mE2LPYqNiqIiwKICAgIENhbGVuZGFyLlNVTkRBWSB0byAi2KfZhNij2K3YryIsCiAgICBDYWxlbmRhci5NT05EQVkgdG8gItin2YTYp9ir2YbZitmGIiwKICAgIENhbGVuZGFyLlRVRVNEQVkgdG8gItin2YTYq9mE2KfYq9in2KEiLAogICAgQ2FsZW5kYXIuV0VETkVTREFZIHRvICLYp9mE2KPYsdio2LnYp9ihIiwKICAgIENhbGVuZGFyLlRIVVJTREFZIHRvICLYp9mE2K7ZhdmK2LMiLAogICAgQ2FsZW5kYXIuRlJJREFZIHRvICLYp9mE2KzZhdi52KkiCikKCkBDb21wb3NhYmxlCmZ1biBTY2hlZHVsZVNjcmVlbigpIHsKICAgIHZhbCB2aWV3TW9kZWw6IFNjaGVkdWxlVmlld01vZGVsID0gdmlld01vZGVsKCkKICAgIHZhbCBzY2hlZHVsZXMgYnkgdmlld01vZGVsLnNjaGVkdWxlcy5jb2xsZWN0QXNTdGF0ZSgpCiAgICB2YXIgc2hvd0RpYWxvZyBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKGZhbHNlKSB9CiAgICB2YXIgZWRpdGluZyBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mPFNjaGVkdWxlRW50aXR5Pz4obnVsbCkgfQoKICAgIFNjYWZmb2xkKAogICAgICAgIGZsb2F0aW5nQWN0aW9uQnV0dG9uID0gewogICAgICAgICAgICBGbG9hdGluZ0FjdGlvbkJ1dHRvbihvbkNsaWNrID0geyBlZGl0aW5nID0gbnVsbDsgc2hvd0RpYWxvZyA9IHRydWUgfSkgewogICAgICAgICAgICAgICAgSWNvbihJY29ucy5GaWxsZWQuQWRkLCBjb250ZW50RGVzY3JpcHRpb24gPSAi2KXYttin2YHYqSDYrNiv2YjZhCIpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICApIHsgcGFkZGluZyAtPgogICAgICAgIGlmIChzY2hlZHVsZXMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIEJveChNb2RpZmllci5maWxsTWF4U2l6ZSgpLnBhZGRpbmcocGFkZGluZyksIGNvbnRlbnRBbGlnbm1lbnQgPSBBbGlnbm1lbnQuQ2VudGVyKSB7CiAgICAgICAgICAgICAgICBUZXh0KCLZhNinINiq2YjYrNivINis2K/Yp9mI2YQg2KjYudivIOKAlCDYp9i22LrYtyArINmE2KXYttin2YHYqSDYrNiv2YjZhCIpCiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMYXp5Q29sdW1uKAogICAgICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAgICAgICAgIC5maWxsTWF4U2l6ZSgpCiAgICAgICAgICAgICAgICAgICAgLnBhZGRpbmcocGFkZGluZykKICAgICAgICAgICAgICAgICAgICAucGFkZGluZygxMi5kcCksCiAgICAgICAgICAgICAgICB2ZXJ0aWNhbEFycmFuZ2VtZW50ID0gQXJyYW5nZW1lbnQuc3BhY2VkQnkoMTAuZHApCiAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgaXRlbXMoc2NoZWR1bGVzKSB7IHNjaGVkdWxlIC0+CiAgICAgICAgICAgICAgICAgICAgU2NoZWR1bGVDYXJkKAogICAgICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZSA9IHNjaGVkdWxlLAogICAgICAgICAgICAgICAgICAgICAgICBvblRvZ2dsZSA9IHsgdmlld01vZGVsLnRvZ2dsZUVuYWJsZWQoc2NoZWR1bGUpIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIG9uRWRpdCA9IHsgZWRpdGluZyA9IHNjaGVkdWxlOyBzaG93RGlhbG9nID0gdHJ1ZSB9LAogICAgICAgICAgICAgICAgICAgICAgICBvbkRlbGV0ZSA9IHsgdmlld01vZGVsLmRlbGV0ZShzY2hlZHVsZSkgfQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBpZiAoc2hvd0RpYWxvZykgewogICAgICAgIFNjaGVkdWxlRWRpdERpYWxvZygKICAgICAgICAgICAgaW5pdGlhbCA9IGVkaXRpbmcsCiAgICAgICAgICAgIG9uRGlzbWlzcyA9IHsgc2hvd0RpYWxvZyA9IGZhbHNlIH0sCiAgICAgICAgICAgIG9uU2F2ZSA9IHsgdmlld01vZGVsLnNhdmUoaXQpOyBzaG93RGlhbG9nID0gZmFsc2UgfQogICAgICAgICkKICAgIH0KfQoKQENvbXBvc2FibGUKcHJpdmF0ZSBmdW4gU2NoZWR1bGVDYXJkKAogICAgc2NoZWR1bGU6IFNjaGVkdWxlRW50aXR5LAogICAgb25Ub2dnbGU6ICgpIC0+IFVuaXQsCiAgICBvbkVkaXQ6ICgpIC0+IFVuaXQsCiAgICBvbkRlbGV0ZTogKCkgLT4gVW5pdAopIHsKICAgIENhcmQobW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKSkgewogICAgICAgIENvbHVtbihNb2RpZmllci5wYWRkaW5nKDE0LmRwKSkgewogICAgICAgICAgICBSb3coCiAgICAgICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpLAogICAgICAgICAgICAgICAgaG9yaXpvbnRhbEFycmFuZ2VtZW50ID0gQXJyYW5nZW1lbnQuU3BhY2VCZXR3ZWVuLAogICAgICAgICAgICAgICAgdmVydGljYWxBbGlnbm1lbnQgPSBBbGlnbm1lbnQuQ2VudGVyVmVydGljYWxseQogICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgIFRleHQoc2NoZWR1bGUubmFtZSwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkudGl0bGVNZWRpdW0pCiAgICAgICAgICAgICAgICBSb3codmVydGljYWxBbGlnbm1lbnQgPSBBbGlnbm1lbnQuQ2VudGVyVmVydGljYWxseSkgewogICAgICAgICAgICAgICAgICAgIFN3aXRjaChjaGVja2VkID0gc2NoZWR1bGUuaXNFbmFibGVkLCBvbkNoZWNrZWRDaGFuZ2UgPSB7IG9uVG9nZ2xlKCkgfSkKICAgICAgICAgICAgICAgICAgICBJY29uQnV0dG9uKG9uQ2xpY2sgPSBvbkRlbGV0ZSkgewogICAgICAgICAgICAgICAgICAgICAgICBJY29uKEljb25zLkZpbGxlZC5EZWxldGUsIGNvbnRlbnREZXNjcmlwdGlvbiA9ICLYrdiw2YEiKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDYuZHApKQogICAgICAgICAgICBUZXh0KCLYpdmK2YLYp9mBOiAlMDJkOiUwMmQiLmZvcm1hdChzY2hlZHVsZS5vZmZIb3VyLCBzY2hlZHVsZS5vZmZNaW51dGUpKQogICAgICAgICAgICBUZXh0KCLYqti02LrZitmEOiAlMDJkOiUwMmQiLmZvcm1hdChzY2hlZHVsZS5vbkhvdXIsIHNjaGVkdWxlLm9uTWludXRlKSkKICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg0LmRwKSkKICAgICAgICAgICAgdmFsIGRheXMgPSBzY2hlZHVsZS5kYXlzU2V0KCkKICAgICAgICAgICAgVGV4dCgKICAgICAgICAgICAgICAgIGRheUxhYmVscy5maWx0ZXIgeyBkYXlzLmNvbnRhaW5zKGl0LmZpcnN0KSB9LmpvaW5Ub1N0cmluZygi2IwgIikgeyBpdC5zZWNvbmQgfSwKICAgICAgICAgICAgICAgIHN0eWxlID0gTWF0ZXJpYWxUaGVtZS50eXBvZ3JhcGh5LmJvZHlTbWFsbAogICAgICAgICAgICApCiAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgICAgIFRleHRCdXR0b24ob25DbGljayA9IG9uRWRpdCkgeyBUZXh0KCLYqti52K/ZitmEIikgfQogICAgICAgIH0KICAgIH0KfQoKQENvbXBvc2FibGUKcHJpdmF0ZSBmdW4gU2NoZWR1bGVFZGl0RGlhbG9nKAogICAgaW5pdGlhbDogU2NoZWR1bGVFbnRpdHk/LAogICAgb25EaXNtaXNzOiAoKSAtPiBVbml0LAogICAgb25TYXZlOiAoU2NoZWR1bGVFbnRpdHkpIC0+IFVuaXQKKSB7CiAgICB2YXIgbmFtZSBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKGluaXRpYWw/Lm5hbWUgPzogIiIpIH0KICAgIHZhciBvZmZIb3VyIGJ5IHJlbWVtYmVyIHsgbXV0YWJsZVN0YXRlT2YoaW5pdGlhbD8ub2ZmSG91ciA/OiAyMykgfQogICAgdmFyIG9mZk1pbnV0ZSBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKGluaXRpYWw/Lm9mZk1pbnV0ZSA/OiAwKSB9CiAgICB2YXIgb25Ib3VyIGJ5IHJlbWVtYmVyIHsgbXV0YWJsZVN0YXRlT2YoaW5pdGlhbD8ub25Ib3VyID86IDcpIH0KICAgIHZhciBvbk1pbnV0ZSBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKGluaXRpYWw/Lm9uTWludXRlID86IDApIH0KICAgIHZhciBzZWxlY3RlZERheXMgYnkgcmVtZW1iZXIgewogICAgICAgIG11dGFibGVTdGF0ZU9mKGluaXRpYWw/LmRheXNTZXQoKSA/OiBkYXlMYWJlbHMubWFwIHsgaXQuZmlyc3QgfS50b1NldCgpKQogICAgfQoKICAgIEFsZXJ0RGlhbG9nKAogICAgICAgIG9uRGlzbWlzc1JlcXVlc3QgPSBvbkRpc21pc3MsCiAgICAgICAgdGl0bGUgPSB7IFRleHQoaWYgKGluaXRpYWwgPT0gbnVsbCkgItil2LbYp9mB2Kkg2KzYr9mI2YQiIGVsc2UgItiq2LnYr9mK2YQg2KfZhNis2K/ZiNmEIikgfSwKICAgICAgICB0ZXh0ID0gewogICAgICAgICAgICBDb2x1bW4gewogICAgICAgICAgICAgICAgT3V0bGluZWRUZXh0RmllbGQoCiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBuYW1lLCBvblZhbHVlQ2hhbmdlID0geyBuYW1lID0gaXQgfSwKICAgICAgICAgICAgICAgICAgICBsYWJlbCA9IHsgVGV4dCgi2KfYs9mFINin2YTYrNiv2YjZhCIpIH0sIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoMTAuZHApKQogICAgICAgICAgICAgICAgVGltZVBpY2tlclJvdygi2YjZgtiqINil2YrZgtin2YEg2KfZhNil2YbYqtix2YbYqiIsIG9mZkhvdXIsIG9mZk1pbnV0ZSkgeyBoLCBtIC0+IG9mZkhvdXIgPSBoOyBvZmZNaW51dGUgPSBtIH0KICAgICAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoMTAuZHApKQogICAgICAgICAgICAgICAgVGltZVBpY2tlclJvdygi2YjZgtiqINiq2LTYutmK2YQg2KfZhNil2YbYqtix2YbYqiIsIG9uSG91ciwgb25NaW51dGUpIHsgaCwgbSAtPiBvbkhvdXIgPSBoOyBvbk1pbnV0ZSA9IG0gfQogICAgICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMC5kcCkpCiAgICAgICAgICAgICAgICBUZXh0KCLYp9mE2KPZitin2YUiLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5sYWJlbExhcmdlKQogICAgICAgICAgICAgICAgZGF5TGFiZWxzLmZvckVhY2ggeyAoZGF5LCBsYWJlbCkgLT4KICAgICAgICAgICAgICAgICAgICBSb3codmVydGljYWxBbGlnbm1lbnQgPSBBbGlnbm1lbnQuQ2VudGVyVmVydGljYWxseSkgewogICAgICAgICAgICAgICAgICAgICAgICBDaGVja2JveCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrZWQgPSBzZWxlY3RlZERheXMuY29udGFpbnMoZGF5KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hlY2tlZENoYW5nZSA9IHsgY2hlY2tlZCAtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdGVkRGF5cyA9IGlmIChjaGVja2VkKSBzZWxlY3RlZERheXMgKyBkYXkgZWxzZSBzZWxlY3RlZERheXMgLSBkYXkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICBUZXh0KGxhYmVsKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgY29uZmlybUJ1dHRvbiA9IHsKICAgICAgICAgICAgVGV4dEJ1dHRvbihvbkNsaWNrID0gewogICAgICAgICAgICAgICAgaWYgKG5hbWUuaXNOb3RCbGFuaygpICYmIHNlbGVjdGVkRGF5cy5pc05vdEVtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICBvblNhdmUoCiAgICAgICAgICAgICAgICAgICAgICAgIFNjaGVkdWxlRW50aXR5KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQgPSBpbml0aWFsPy5pZCA/OiAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZSA9IG5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvZmZIb3VyID0gb2ZmSG91ciwgb2ZmTWludXRlID0gb2ZmTWludXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgb25Ib3VyID0gb25Ib3VyLCBvbk1pbnV0ZSA9IG9uTWludXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF5cyA9IFNjaGVkdWxlRW50aXR5LmRheXNUb1N0cmluZyhzZWxlY3RlZERheXMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNFbmFibGVkID0gaW5pdGlhbD8uaXNFbmFibGVkID86IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkgeyBUZXh0KCLYrdmB2LgiKSB9CiAgICAgICAgfSwKICAgICAgICBkaXNtaXNzQnV0dG9uID0geyBUZXh0QnV0dG9uKG9uQ2xpY2sgPSBvbkRpc21pc3MpIHsgVGV4dCgi2KXZhNi62KfYoSIpIH0gfQogICAgKQp9CgpAQ29tcG9zYWJsZQpwcml2YXRlIGZ1biBUaW1lUGlja2VyUm93KGxhYmVsOiBTdHJpbmcsIGhvdXI6IEludCwgbWludXRlOiBJbnQsIG9uQ2hhbmdlOiAoSW50LCBJbnQpIC0+IFVuaXQpIHsKICAgIENvbHVtbiB7CiAgICAgICAgVGV4dChsYWJlbCwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkubGFiZWxMYXJnZSkKICAgICAgICBSb3codmVydGljYWxBbGlnbm1lbnQgPSBBbGlnbm1lbnQuQ2VudGVyVmVydGljYWxseSkgewogICAgICAgICAgICBOdW1iZXJTdGVwcGVyKHZhbHVlID0gaG91ciwgcmFuZ2UgPSAwLi4yMykgeyBvbkNoYW5nZShpdCwgbWludXRlKSB9CiAgICAgICAgICAgIFRleHQoIiAgOiAgIikKICAgICAgICAgICAgTnVtYmVyU3RlcHBlcih2YWx1ZSA9IG1pbnV0ZSwgcmFuZ2UgPSAwLi41OSwgc3RlcCA9IDUpIHsgb25DaGFuZ2UoaG91ciwgaXQpIH0KICAgICAgICB9CiAgICB9Cn0KCkBDb21wb3NhYmxlCnByaXZhdGUgZnVuIE51bWJlclN0ZXBwZXIodmFsdWU6IEludCwgcmFuZ2U6IEludFJhbmdlLCBzdGVwOiBJbnQgPSAxLCBvbkNoYW5nZTogKEludCkgLT4gVW5pdCkgewogICAgUm93KHZlcnRpY2FsQWxpZ25tZW50ID0gQWxpZ25tZW50LkNlbnRlclZlcnRpY2FsbHkpIHsKICAgICAgICBJY29uQnV0dG9uKG9uQ2xpY2sgPSB7CiAgICAgICAgICAgIHZhbCBuZXh0ID0gdmFsdWUgLSBzdGVwCiAgICAgICAgICAgIG9uQ2hhbmdlKGlmIChuZXh0IDwgcmFuZ2UuZmlyc3QpIHJhbmdlLmxhc3QgZWxzZSBuZXh0KQogICAgICAgIH0pIHsgVGV4dCgiLSIpIH0KICAgICAgICBUZXh0KCIlMDJkIi5mb3JtYXQodmFsdWUpLCBtb2RpZmllciA9IE1vZGlmaWVyLndpZHRoKDMyLmRwKSwgdGV4dEFsaWduID0gYW5kcm9pZHguY29tcG9zZS51aS50ZXh0LnN0eWxlLlRleHRBbGlnbi5DZW50ZXIpCiAgICAgICAgSWNvbkJ1dHRvbihvbkNsaWNrID0gewogICAgICAgICAgICB2YWwgbmV4dCA9IHZhbHVlICsgc3RlcAogICAgICAgICAgICBvbkNoYW5nZShpZiAobmV4dCA+IHJhbmdlLmxhc3QpIHJhbmdlLmZpcnN0IGVsc2UgbmV4dCkKICAgICAgICB9KSB7IFRleHQoIisiKSB9CiAgICB9Cn0K
+package com.nd300.controller.ui.schedule
+
+import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Add
+import androidx.compose.material.icons.filled.Delete
+import androidx.compose.material3.*
+import androidx.compose.runtime.*
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.unit.dp
+import androidx.lifecycle.viewmodel.compose.viewModel
+import com.nd300.controller.data.db.ScheduleEntity
+import com.nd300.controller.ui.viewmodel.ScheduleViewModel
+import java.util.Calendar
+
+private val dayLabels = listOf(
+    Calendar.SATURDAY to "السبت",
+    Calendar.SUNDAY to "الأحد",
+    Calendar.MONDAY to "الاثنين",
+    Calendar.TUESDAY to "الثلاثاء",
+    Calendar.WEDNESDAY to "الأربعاء",
+    Calendar.THURSDAY to "الخميس",
+    Calendar.FRIDAY to "الجمعة"
+)
+
+@Composable
+fun ScheduleScreen() {
+    val viewModel: ScheduleViewModel = viewModel()
+    val schedules by viewModel.schedules.collectAsState()
+    var showDialog by remember { mutableStateOf(false) }
+    var editing by remember { mutableStateOf<ScheduleEntity?>(null) }
+
+    Scaffold(
+        floatingActionButton = {
+            FloatingActionButton(onClick = { editing = null; showDialog = true }) {
+                Icon(Icons.Filled.Add, contentDescription = "إضافة جدول")
+            }
+        }
+    ) { padding ->
+        if (schedules.isEmpty()) {
+            Box(Modifier.fillMaxSize().padding(padding), contentAlignment = Alignment.Center) {
+                Text("لا توجد جداول بعد — اضغط + لإضافة جدول")
+            }
+        } else {
+            LazyColumn(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(padding)
+                    .padding(12.dp),
+                verticalArrangement = Arrangement.spacedBy(10.dp)
+            ) {
+                items(schedules) { schedule ->
+                    ScheduleCard(
+                        schedule = schedule,
+                        onToggle = { viewModel.toggleEnabled(schedule) },
+                        onEdit = { editing = schedule; showDialog = true },
+                        onDelete = { viewModel.delete(schedule) }
+                    )
+                }
+            }
+        }
+    }
+
+    if (showDialog) {
+        ScheduleEditDialog(
+            initial = editing,
+            onDismiss = { showDialog = false },
+            onSave = { viewModel.save(it); showDialog = false }
+        )
+    }
+}
+
+@Composable
+private fun ScheduleCard(
+    schedule: ScheduleEntity,
+    onToggle: () -> Unit,
+    onEdit: () -> Unit,
+    onDelete: () -> Unit
+) {
+    Card(modifier = Modifier.fillMaxWidth()) {
+        Column(Modifier.padding(14.dp)) {
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                horizontalArrangement = Arrangement.SpaceBetween,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Text(schedule.name, style = MaterialTheme.typography.titleMedium)
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Switch(checked = schedule.isEnabled, onCheckedChange = { onToggle() })
+                    IconButton(onClick = onDelete) {
+                        Icon(Icons.Filled.Delete, contentDescription = "حذف")
+                    }
+                }
+            }
+            Spacer(Modifier.height(6.dp))
+            Text("إيقاف: %02d:%02d".format(schedule.offHour, schedule.offMinute))
+            Text("تشغيل: %02d:%02d".format(schedule.onHour, schedule.onMinute))
+            Spacer(Modifier.height(4.dp))
+            val days = schedule.daysSet()
+            Text(
+                dayLabels.filter { days.contains(it.first) }.joinToString("، ") { it.second },
+                style = MaterialTheme.typography.bodySmall
+            )
+            Spacer(Modifier.height(8.dp))
+            TextButton(onClick = onEdit) { Text("تعديل") }
+        }
+    }
+}
+
+@Composable
+private fun ScheduleEditDialog(
+    initial: ScheduleEntity?,
+    onDismiss: () -> Unit,
+    onSave: (ScheduleEntity) -> Unit
+) {
+    var name by remember { mutableStateOf(initial?.name ?: "") }
+    var offHour by remember { mutableStateOf(initial?.offHour ?: 23) }
+    var offMinute by remember { mutableStateOf(initial?.offMinute ?: 0) }
+    var onHour by remember { mutableStateOf(initial?.onHour ?: 7) }
+    var onMinute by remember { mutableStateOf(initial?.onMinute ?: 0) }
+    var selectedDays by remember {
+        mutableStateOf(initial?.daysSet() ?: dayLabels.map { it.first }.toSet())
+    }
+
+    AlertDialog(
+        onDismissRequest = onDismiss,
+        title = { Text(if (initial == null) "إضافة جدول" else "تعديل الجدول") },
+        text = {
+            Column {
+                OutlinedTextField(
+                    value = name, onValueChange = { name = it },
+                    label = { Text("اسم الجدول") }, modifier = Modifier.fillMaxWidth()
+                )
+                Spacer(Modifier.height(10.dp))
+                TimePickerRow("وقت إيقاف الإنترنت", offHour, offMinute) { h, m -> offHour = h; offMinute = m }
+                Spacer(Modifier.height(10.dp))
+                TimePickerRow("وقت تشغيل الإنترنت", onHour, onMinute) { h, m -> onHour = h; onMinute = m }
+                Spacer(Modifier.height(10.dp))
+                Text("الأيام", style = MaterialTheme.typography.labelLarge)
+                dayLabels.forEach { (day, label) ->
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Checkbox(
+                            checked = selectedDays.contains(day),
+                            onCheckedChange = { checked ->
+                                selectedDays = if (checked) selectedDays + day else selectedDays - day
+                            }
+                        )
+                        Text(label)
+                    }
+                }
+            }
+        },
+        confirmButton = {
+            TextButton(onClick = {
+                if (name.isNotBlank() && selectedDays.isNotEmpty()) {
+                    onSave(
+                        ScheduleEntity(
+                            id = initial?.id ?: 0,
+                            name = name,
+                            offHour = offHour, offMinute = offMinute,
+                            onHour = onHour, onMinute = onMinute,
+                            days = ScheduleEntity.daysToString(selectedDays),
+                            isEnabled = initial?.isEnabled ?: true
+                        )
+                    )
+                }
+            }) { Text("حفظ") }
+        },
+        dismissButton = { TextButton(onClick = onDismiss) { Text("إلغاء") } }
+    )
+}
+
+@Composable
+private fun TimePickerRow(label: String, hour: Int, minute: Int, onChange: (Int, Int) -> Unit) {
+    Column {
+        Text(label, style = MaterialTheme.typography.labelLarge)
+        Row(verticalAlignment = Alignment.CenterVertically) {
+            NumberStepper(value = hour, range = 0..23) { onChange(it, minute) }
+            Text("  :  ")
+            NumberStepper(value = minute, range = 0..59, step = 5) { onChange(hour, it) }
+        }
+    }
+}
+
+@Composable
+private fun NumberStepper(value: Int, range: IntRange, step: Int = 1, onChange: (Int) -> Unit) {
+    Row(verticalAlignment = Alignment.CenterVertically) {
+        IconButton(onClick = {
+            val next = value - step
+            onChange(if (next < range.first) range.last else next)
+        }) { Text("-") }
+        Text("%02d".format(value), modifier = Modifier.width(32.dp), textAlign = androidx.compose.ui.text.style.TextAlign.Center)
+        IconButton(onClick = {
+            val next = value + step
+            onChange(if (next > range.last) range.first else next)
+        }) { Text("+") }
+    }
+}
